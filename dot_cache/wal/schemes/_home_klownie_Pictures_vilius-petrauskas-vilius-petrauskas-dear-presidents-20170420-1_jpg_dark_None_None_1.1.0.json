@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/klownie/Pictures/vilius-petrauskas-vilius-petrauskas-dear-presidents-20170420-1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1010",
+        "foreground": "#dee3ea",
+        "cursor": "#dee3ea"
+    },
+    "colors": {
+        "color0": "#0f1010",
+        "color1": "#7C848A",
+        "color2": "#939CA4",
+        "color3": "#BEC0BE",
+        "color4": "#ADB9C7",
+        "color5": "#B9C6D3",
+        "color6": "#C4D0DD",
+        "color7": "#dee3ea",
+        "color8": "#9b9ea3",
+        "color9": "#7C848A",
+        "color10": "#939CA4",
+        "color11": "#BEC0BE",
+        "color12": "#ADB9C7",
+        "color13": "#B9C6D3",
+        "color14": "#C4D0DD",
+        "color15": "#dee3ea"
+    }
+}

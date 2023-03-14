@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/klownie/Pictures/neil-ross-fonthill-rox-3b.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060C02",
+        "foreground": "#e5f2e6",
+        "cursor": "#e5f2e6"
+    },
+    "colors": {
+        "color0": "#060C02",
+        "color1": "#3C9C52",
+        "color2": "#CCAD2C",
+        "color3": "#404BB4",
+        "color4": "#44CDB1",
+        "color5": "#FCEFA0",
+        "color6": "#9DE1CE",
+        "color7": "#e5f2e6",
+        "color8": "#a0a9a1",
+        "color9": "#3C9C52",
+        "color10": "#CCAD2C",
+        "color11": "#404BB4",
+        "color12": "#44CDB1",
+        "color13": "#FCEFA0",
+        "color14": "#9DE1CE",
+        "color15": "#e5f2e6"
+    }
+}

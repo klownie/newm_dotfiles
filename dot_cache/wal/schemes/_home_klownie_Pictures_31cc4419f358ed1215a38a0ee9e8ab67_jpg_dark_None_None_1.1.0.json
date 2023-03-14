@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/klownie/Pictures/31cc4419f358ed1215a38a0ee9e8ab67.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0e09",
+        "foreground": "#8cd3d6",
+        "cursor": "#8cd3d6"
+    },
+    "colors": {
+        "color0": "#0a0e09",
+        "color1": "#124F49",
+        "color2": "#126E50",
+        "color3": "#2A675B",
+        "color4": "#526A5C",
+        "color5": "#19935D",
+        "color6": "#2AB362",
+        "color7": "#8cd3d6",
+        "color8": "#629395",
+        "color9": "#124F49",
+        "color10": "#126E50",
+        "color11": "#2A675B",
+        "color12": "#526A5C",
+        "color13": "#19935D",
+        "color14": "#2AB362",
+        "color15": "#8cd3d6"
+    }
+}

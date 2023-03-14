@@ -1,0 +1,17 @@
+width = 25%
+height = 50%
+border-width = 0
+outline-width = 0
+padding-left = 20
+padding-top = 20
+result-spacing = 3
+num-results = 20
+font = JetBrains Mono Medium
+font-size = 10
+prompt-text = "   ~ "
+corner-radius = 7
+hide-cursor = true
+background-color = #0c0903
+text-color = #dac0a6
+selection-color = #AD7451
+

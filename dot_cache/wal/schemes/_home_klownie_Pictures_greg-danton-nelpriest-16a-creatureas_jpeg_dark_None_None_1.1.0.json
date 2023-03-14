@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/klownie/Pictures/greg-danton-nelpriest-16a-creatureas.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0C08",
+        "foreground": "#c2bfb3",
+        "cursor": "#c2bfb3"
+    },
+    "colors": {
+        "color0": "#0F0C08",
+        "color1": "#6E4C2F",
+        "color2": "#3F4440",
+        "color3": "#4F4F48",
+        "color4": "#676155",
+        "color5": "#6E7269",
+        "color6": "#956440",
+        "color7": "#c2bfb3",
+        "color8": "#87857d",
+        "color9": "#6E4C2F",
+        "color10": "#3F4440",
+        "color11": "#4F4F48",
+        "color12": "#676155",
+        "color13": "#6E7269",
+        "color14": "#956440",
+        "color15": "#c2bfb3"
+    }
+}

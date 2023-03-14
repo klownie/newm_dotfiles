@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/klownie/Pictures/huang-guangjian-20200323.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#081813",
+        "foreground": "#cfc4b7",
+        "cursor": "#cfc4b7"
+    },
+    "colors": {
+        "color0": "#081813",
+        "color1": "#9B5D5C",
+        "color2": "#7B947F",
+        "color3": "#A6A64F",
+        "color4": "#989A67",
+        "color5": "#AF997D",
+        "color6": "#A49E8F",
+        "color7": "#cfc4b7",
+        "color8": "#908980",
+        "color9": "#9B5D5C",
+        "color10": "#7B947F",
+        "color11": "#A6A64F",
+        "color12": "#989A67",
+        "color13": "#AF997D",
+        "color14": "#A49E8F",
+        "color15": "#cfc4b7"
+    }
+}

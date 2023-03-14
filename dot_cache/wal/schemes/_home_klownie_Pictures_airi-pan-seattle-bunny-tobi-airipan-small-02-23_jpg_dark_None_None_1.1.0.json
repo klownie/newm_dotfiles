@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/klownie/Pictures/airi-pan-seattle-bunny-tobi-airipan-small-02-23.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#141611",
+        "foreground": "#c6e7ea",
+        "cursor": "#c6e7ea"
+    },
+    "colors": {
+        "color0": "#141611",
+        "color1": "#718B77",
+        "color2": "#649B9F",
+        "color3": "#48A4B9",
+        "color4": "#77D1EA",
+        "color5": "#9AAAA6",
+        "color6": "#BBC1B7",
+        "color7": "#c6e7ea",
+        "color8": "#8aa1a3",
+        "color9": "#718B77",
+        "color10": "#649B9F",
+        "color11": "#48A4B9",
+        "color12": "#77D1EA",
+        "color13": "#9AAAA6",
+        "color14": "#BBC1B7",
+        "color15": "#c6e7ea"
+    }
+}
