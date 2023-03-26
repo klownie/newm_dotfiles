@@ -147,7 +147,8 @@ class KeyBindings:
             #App laucher :
 
             (self.__super + "d", lambda: os.system("tofi-drun --drun-launch=true &")),
-            #(self.__super + "S", lambda: os.system(f"{ROFI}/launcher &")),
+            # (self.__super + "d", lambda: os.system(self.__term + " --title kitty_floats" + " sway-launcher-desktop &")),
+            # (self.__super + "S", lambda: os.system(f"{ROFI}/launcher &")),
             # ("XF86LaunchA", lambda: os.system(f"{self.ROFI}/apps &")),
 
 

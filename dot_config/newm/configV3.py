@@ -8,28 +8,7 @@ from newm.helper import BacklightManager
 from newm.layout import Layout
 from newm.view import View
 
-'''
 
-
-NNNNNNNN        NNNNNNNNEEEEEEEEEEEEEEEEEEEEEEWWWWWWWW                           WWWWWWWWMMMMMMMM               MMMMMMMM     
-N:::::::N       N::::::NE::::::::::::::::::::EW::::::W                           W::::::WM:::::::M             M:::::::M     
-N::::::::N      N::::::NE::::::::::::::::::::EW::::::W                           W::::::WM::::::::M           M::::::::M     
-N:::::::::N     N::::::NEE::::::EEEEEEEEE::::EW::::::W                           W::::::WM:::::::::M         M:::::::::M     
-N::::::::::N    N::::::N  E:::::E       EEEEEE W:::::W           WWWWW           W:::::W M::::::::::M       M::::::::::M     
-N:::::::::::N   N::::::N  E:::::E               W:::::W         W:::::W         W:::::W  M:::::::::::M     M:::::::::::M     
-N:::::::N::::N  N::::::N  E::::::EEEEEEEEEE      W:::::W       W:::::::W       W:::::W   M:::::::M::::M   M::::M:::::::M     
-N::::::N N::::N N::::::N  E:::::::::::::::E       W:::::W     W:::::::::W     W:::::W    M::::::M M::::M M::::M M::::::M     
-N::::::N  N::::N:::::::N  E:::::::::::::::E        W:::::W   W:::::W:::::W   W:::::W     M::::::M  M::::M::::M  M::::::M     
-N::::::N   N:::::::::::N  E::::::EEEEEEEEEE         W:::::W W:::::W W:::::W W:::::W      M::::::M   M:::::::M   M::::::M     
-N::::::N    N::::::::::N  E:::::E                    W:::::W:::::W   W:::::W:::::W       M::::::M    M:::::M    M::::::M     
-N::::::N     N:::::::::N  E:::::E       EEEEEE        W:::::::::W     W:::::::::W        M::::::M     MMMMM     M::::::M     
-N::::::N      N::::::::NEE::::::EEEEEEEE:::::E         W:::::::W       W:::::::W         M::::::M               M::::::M     
-N::::::N       N:::::::NE::::::::::::::::::::E          W:::::W         W:::::W          M::::::M               M::::::M     
-N::::::N        N::::::NE::::::::::::::::::::E           W:::W           W:::W           M::::::M               M::::::M     
-NNNNNNNN         NNNNNNNEEEEEEEEEEEEEEEEEEEEEE            WWW             WWW            MMMMMMMM               MMMMMMMM     
-
-
-'''
 
 logger = logging.getLogger(__name__)
 mod = "L"  # o "A", "C", "1", "2", "3"
@@ -64,8 +43,8 @@ def on_startup():
         "wl-paste --watch cliphist store",
         "avizo-service",
         #"wlsunset -l 16.0867 -L -93.7561 -t 2500 -T 6000",
-        "mpv --no-video /home/klownie/Documents/Nintendo\ Wii\ Startup\ sound\ download\ \[jnf76C_qYho\].webm",
-        #"catapult",
+        #"mpv --no-video /home/klownie/Documents/Nintendo\ Wii\ Startup\ sound\ download\ \[jnf76C_qYho\].webm",
+        "xhost +",
     )
     execute_iter(INIT_SERVICE)
 
@@ -73,30 +52,30 @@ def on_startup():
 ## Set preferences
 
 def on_reconfigure():
-    gnome_schema = "org.gnome.desktop.interface"
-    gnome_peripheral = "org.gnome.desktop.peripherals"
-    gnome_preferences = "org.gnome.desktop.wm.preferences"
+    # gnome_schema = "org.gnome.desktop.interface"
+    # gnome_peripheral = "org.gnome.desktop.peripherals"
+    # gnome_preferences = "org.gnome.desktop.wm.preferences"
     # easyeffects = "com.github.wwmm.easyeffects"
-    theme = "Catppuccin-Mocha-Standard-Mauve-Dark"
-    icons = "candy-icons"
-    cursor = "Catppuccin-Mocha-Lavender-Cursors"
+    theme = "groot"
+    icons = "Nordic-Folder"
+    cursor = "Adwaita"
     font = "SF Pro 12"
     gtk2 = "~/.gtkrc-2.0"
 
     GSETTINGS = (
-        f"gsettings set {gnome_preferences} button-layout :",
-        f"gsettings set {gnome_preferences} theme {theme}",
-        f"gsettings set {gnome_schema} gtk-theme {theme}",
-        f"gsettings set {gnome_schema} color-scheme prefer-dark",
-        f"gsettings set {gnome_schema} icon-theme {icons}",
-        f"gsettings set {gnome_schema} cursor-theme {cursor}",
-        f"gsettings set {gnome_schema} cursor-size 30",
-        f"gsettings set {gnome_schema} font-name '{font}'",
-        f"gsettings set {gnome_peripheral}.keyboard repeat-interval 30",
-        f"gsettings set {gnome_peripheral}.keyboard delay 250",
-        f"gsettings set {gnome_peripheral}.mouse natural-scroll false",
-        f"gsettings set {gnome_peripheral}.mouse speed 0.0",
-        f"gsettings set {gnome_peripheral}.mouse accel-profile 'default'",
+        #f"gsettings set {gnome_preferences} button-layout :",
+        #f"gsettings set {gnome_preferences} theme {theme}",
+        #f"gsettings set {gnome_schema} gtk-theme {theme}",
+        #f"gsettings set {gnome_schema} color-scheme prefer-dark",
+        #f"gsettings set {gnome_schema} icon-theme {icons}",
+        #f"gsettings set {gnome_schema} cursor-theme {cursor}",
+        #f"gsettings set {gnome_schema} cursor-size 30",
+        #f"gsettings set {gnome_schema} font-name '{font}'",
+        #f"gsettings set {gnome_peripheral}.keyboard repeat-interval 30",
+        #f"gsettings set {gnome_peripheral}.keyboard delay 250",
+        #f"gsettings set {gnome_peripheral}.mouse natural-scroll false",
+        #f"gsettings set {gnome_peripheral}.mouse speed 0.0",
+        #f"gsettings set {gnome_peripheral}.mouse accel-profile 'default'",
         # f"gsettings {easyeffects} process-all-inputs true",
         # f"gsettings {easyeffects} process-all-outputs true",
     )
@@ -132,10 +111,16 @@ outputs = [
         "height": 1080,
         # "mHz": 0,
         "pos_x": 1920,
-        "pos_y": 0,
+        "pos_y": 1080,
     },  # 2560/1600 },
     {
         "name": "HDMI-A-1",
+        "scale": 1.0,
+        "pos_x": 0,
+        "pos_y": 1080,
+    },
+    {
+        "name": "DP-1",
         "scale": 1.0,
         "pos_x": 0,
         "pos_y": 0,
@@ -151,10 +136,10 @@ pywm = {
     # "xkb_layout": "es",
     # "xkb_layout": "latam",
     "xkb_layout": "us",
-    # "xkb_variant": "intl",
+    "xkb_variant": "intl",
     # "xkb_options": "caps:swapescape",
-    "xcursor_theme": "Catppuccin-Mocha-Lavender-Cursors",
-    "xcursor_size": 15,
+    "xcursor_theme": "Adwaita",
+    "xcursor_size": 5,
     "focus_follows_mouse": True,
     # "contstrain_popups_to_toplevel": True,
     "encourage_csd": False,
@@ -165,13 +150,14 @@ pywm = {
 ## Configure Background
 
 background = {
-    "path": os.path.expanduser("~/Pictures/lea-pinto-7eleven-pinto-lea-1.jpg"),
-    # "path": os.path.expanduser("~/Imágenes/wallpaperCicle/17.jpg"),
-    # "path": os.path.expanduser("~/Imágenes/wallpaperCicle/20.jpg"),
-    # "path": os.path.expanduser("~/Imágenes/software/linuxfu.jpg"),
+    "path": os.path.expanduser("~/Pictures/airi-pan-borzoi-knight-airipan-03-small.jpg"),
     "time_scale": 0.11,
     "anim": True,
 }
+
+
+## Configure window opening or closing
+
 anim_time = 0.2
 blend_time = 0.5
 corner_radius = 0
@@ -180,10 +166,10 @@ corner_radius = 0
 ## Floating app configuration
 
 common_rules = {
-    # "opacity": 0.8,
+    #"opacity": 0.8,
     "float": True,
     "float_size": (750, 750),
-    "float_pos": (0.5, 0.35),
+    "float_pos": (0.5, 0.5),
 }
 float_app_ids = (
     "albert",
@@ -196,13 +182,18 @@ float_app_ids = (
 )
 float_titles = (
     "Dialect",
+    "kitty_floats",
 )
 
 
 ## Blured apps 
 
 blur_apps = (
-    term, "rofi", "Alacritty", "tenacity"
+    term, 
+    "rofi",
+    "kitty", 
+    "tenacity",
+    "kitty_lock",
 )
 
 
@@ -248,7 +239,7 @@ def rules(view: View):
 ## Tiling configuration
 
 view = {
-    "padding": 6,
+    "padding": 10,
     "fullscreen_padding": 0,
     "send_fullscreen": False,
     "accept_fullscreen": False,
@@ -304,10 +295,10 @@ swipe = {"gesture_factor": 3}
 
 panels = {
     "lock": {
-        "cmd": f"{term} newm-panel-basic lock",
+        "cmd": f"{term} newm-panel-basic lock --title kitty_lock",
         "w": 0.7,
-        "h": 0.7,
-        "corner_radius": 50,
+        "h": 0.7, 
+        "corner_radius": 15,
     },
     "bar": {
         "cmd": "waybar",
