@@ -110,14 +110,14 @@ outputs = [
         "width": 1920,
         "height": 1080,
         # "mHz": 0,
-        "pos_x": 1920,
-        "pos_y": 1080,
+        "pos_x": 3840,
+        "pos_y": 0,
     },  # 2560/1600 },
     {
         "name": "HDMI-A-1",
         "scale": 1.0,
-        "pos_x": 0,
-        "pos_y": 1080,
+        "pos_x": 1920,
+        "pos_y": 0,
     },
     {
         "name": "DP-1",
@@ -308,5 +308,8 @@ panels = {
 }
 
 grid = {"throw_ps": [2, 10]}
+
+
+## Configuration time till lock and suspend
 
 energy = {"idle_times": [120, 600, 1500], "idle_callback": backlight_manager.callback}
