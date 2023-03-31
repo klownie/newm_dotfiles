@@ -44,6 +44,7 @@ def on_startup():
         "avizo-service",
         #"wlsunset -l 16.0867 -L -93.7561 -t 2500 -T 6000",
         #"mpv --no-video /home/klownie/Documents/Nintendo\ Wii\ Startup\ sound\ download\ \[jnf76C_qYho\].webm",
+        "poweralertd -s",
         "xhost +",
     )
     execute_iter(INIT_SERVICE)
