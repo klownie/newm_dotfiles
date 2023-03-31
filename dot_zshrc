@@ -164,3 +164,5 @@ alias bat='bat -P -p'
 alias pirate-get='pirate-get -T -S /home/klownie/watch'
 
 export PATH=$PATH:/home/klownie/.spicetify
+#export GBM_BACKEND=nvidia-drm
+#export __GLX_VENDOR_LIBRARY_NAME=nvidia
