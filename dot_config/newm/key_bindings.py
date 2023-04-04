@@ -180,7 +180,7 @@ class KeyBindings:
             #Other apps to lauch :
 
             (self.__super + "W", lambda: os.system("MOZ_ENABLE_WAYLAND=1 firefox &")),
-            (self.__super + "F", lambda: os.system("thunar &")),
+            (self.__super + "F", lambda: os.system("nemo &")),
             (self.__super + "T", lambda: os.system(self.__term + " ranger &")),
         )
 
