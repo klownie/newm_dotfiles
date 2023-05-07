@@ -65,10 +65,10 @@ def on_reconfigure():
 
     GSETTINGS = (
         #f"gsettings set {gnome_preferences} button-layout :",
-        #f"gsettings set {gnome_preferences} theme {theme}",
-        #f"gsettings set {gnome_schema} gtk-theme {theme}",
-        #f"gsettings set {gnome_schema} color-scheme prefer-dark",
-        #f"gsettings set {gnome_schema} icon-theme {icons}",
+        f"gsettings set {gnome_preferences} theme {theme}",
+        f"gsettings set {gnome_schema} gtk-theme {theme}",
+        f"gsettings set {gnome_schema} color-scheme prefer-dark",
+        f"gsettings set {gnome_schema} icon-theme {icons}",
         #f"gsettings set {gnome_schema} cursor-theme {cursor}",
         #f"gsettings set {gnome_schema} cursor-size 30",
         #f"gsettings set {gnome_schema} font-name '{font}'",
@@ -151,7 +151,7 @@ pywm = {
 ## Configure Background
 
 background = {
-    "path": os.path.expanduser("~/Pictures/airi-pan-borzoi-knight-airipan-03-small.jpg"),
+    "path": os.path.expanduser("~/Pictures/sang-nguyen-asset(1).jpg"),
     "time_scale": 0.11,
     "anim": True,
 }
@@ -240,7 +240,7 @@ def rules(view: View):
 ## Tiling configuration
 
 view = {
-    "padding": 10,
+    "padding": 8,
     "fullscreen_padding": 0,
     "send_fullscreen": False,
     "accept_fullscreen": False,

@@ -139,6 +139,7 @@ add-zsh-hook -Uz precmd rehash_precmd
 #  exec tmux
 #fi
 
+
 # omz
 alias zshconfig="geany ~/.zshrc"
 alias ohmyzsh="thunar ~/.oh-my-zsh"
@@ -168,3 +169,4 @@ export PATH=$PATH:/home/klownie/.spicetify
 #export __GLX_VENDOR_LIBRARY_NAME=nvidia
 export PAGER=moar
 export MOAR='--statusbar=bold -wrap -style catppuccin-frappe'
+export MANPAGER="sh -c 'col -bx | bat -l man -p '"
