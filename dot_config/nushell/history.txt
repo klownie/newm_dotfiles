@@ -1,0 +1,475 @@
+ls
+exa
+exa -l
+ls
+la
+ls
+ls -a
+man man
+paru zoxide
+z
+z Documents/
+ls
+exa
+exa -la
+nvim .config/nushell/config.nu
+nvim .zshrc
+ls
+neofetch
+ls
+newm.sh
+which nu
+chsh /sbin/nu
+nvim /etc/passwd
+nvim /etc/passwd-
+bat /etc/shells
+echo $SHELL
+chsh
+nvim .zshrc
+clear
+echo $SHELL
+ls
+ls -la
+neofetch
+ls | sort-by size | reverse
+ls | where size > 1kb
+ps
+ps -ef
+ps -f 
+date now
+date now | date to-table
+sys
+ls
+nvim .config/nushell/config.nu
+neofetch
+ls
+paru -Syu
+spicetify apply
+spicetify restore backup apply
+ls
+clear
+ranger
+btm
+neofetch
+paru oxide
+paru rust
+cd Documents/rust/
+nvim matrice/matrix-rs/
+nvim matrice/matrix-rs
+nvim
+nvim\
+alacritty 
+cd Documents/rust/matrice/
+cd matrix-rs/
+cargo r
+ani-cli 
+clear
+nvim .config/nushell/config.nu
+config
+config nu
+paru nu
+paru nu shell
+zsh 
+pwd
+nvim .config/nushell/config.nu
+looking-glass-client 
+nvim .local/share/applications/
+nvim /var/cache/
+fzf flat
+fzf-run 
+cargo r
+paru -R vscodium
+clear
+flatpak install flathub com.vscodium.codium
+looking-glass-client 
+flatpak update
+paru hotspot
+create_ap wlan0 eth0 HOHO salegosse
+doas create_ap wlan0 eth0 HOHO salegosse 
+zsh
+doas create_ap wlan0 wlan0 HOHO salegosse 
+doas wihotspot
+zsh
+doas wihotspot
+doas nethogs
+paru hotspot
+nmtool
+nmyui
+nmtui
+nmtool
+paru -R hotsp
+nmtool
+doas nmtool
+iw list | less
+nmcli dev wifi hotspot ifname wlan0 ssid test password "test1234"
+nmcli
+nmtui
+doas nmtool
+nmtool
+nmcli dev wifi hotspot ifname wlan0 ssid test desactivate
+nmcli dev wifi list
+nmcli dev wifi connection down
+nmcli dev wifi hotspot ifname wlan0 ssid test connection down
+nmcli dev wifi hotspot ifname wlan0 connection down
+nmcli dev wifi hotspot connection down
+nmcli dev connection down
+doas chmod klownie:klownie /run/media/klownie/klown-files/sketchbook/*
+doas chown klownie:klownie /run/media/klownie/klown-files/sketchbook/*
+nvim
+cargo r
+paru -Syu
+newm.sh
+flatpak run com.vscodium.codium
+flatpak uninstall com.vscodium.codium
+paru vscodium
+flatpak install flathub com.helix_editor.Helix
+flatpak run com.helix_editor.Helix
+flatpak uninstall flathub com.helix_editor.Helix
+nvim .config/nushell/env.nu
+paru starship
+nu.env-path
+nvim .config/nushell/env.nu
+nvim .config/nushell/config.nu
+clear
+cd Documents/rust/matrice/
+cd klownie_matrix/
+nvim .config/nushell/env.nu
+nvim .config/nushell/config.nu
+cd klownie_matrix/
+cd Documents/rust/matrice/
+cd klownie_matrix/
+la
+ls
+shells
+cd
+shells
+nvim .zshrc
+man man
+man .config/nushell/config.nu
+nvim .config/nushell/env.nu
+nvim .config/nushell/config.nu
+neofetch
+ls
+ps
+paru kworker
+ls
+exa
+exa -la
+paru -Syu
+wal -i Pictures/neil-ross-to-the-gaolhouse-nr-1-as.jpg
+neofetch
+ls
+neofetch
+paru wike
+paru -Syu
+cd Documents/rust/matrice/
+cd matrix-rs/
+cargo r
+nvim src/main.rs
+cargo r
+discord-screenaudio 
+cd Documents/rust/matrice/
+cd matrix-rs/
+open Cargo.toml | get package
+cat Cargo.toml | get package
+open Cargo.toml | get package
+open Cargo.toml 
+open Cargo.toml | get package
+open ../klownie_matrix/Cargo.toml | get package
+cd
+nvim .config/alacritty/alacritty.yml
+nvim .config/alacritty/fonts.yml
+nvim .config/alacritty/colors.yml
+neofetch
+ls
+nvim .config/alacritty/alacritty.yml
+nvim .config/kitty/kitty.conf
+alacritty 
+nvim .config/alacritty/fonts.yml
+nvim .config/alacritty/alacritty.yml
+nvim .config/alacritty/fonts.yml
+nvim .config/alacritty/colors.yml
+paru wezterm
+ls
+wezterm 
+wezterm-mux-server 
+wezterm-gui 
+paru sixel
+paru img2six
+cd
+sixel2png Pictures/-8.jpg
+ls
+img2sixel Pictures/Karragor.jpg
+la
+ls
+img2sixel Pictures/Karragor.jpg 
+mkdir Sixel
+img2sixel Pictures/Karragor.jpg > Sixel/Karragor.six
+touch Sixel/Karragor.six
+img2sixel Pictures/Karragor.jpg > Sixel/Karragor.six
+img2sixel Pictures/simon-tosovsky.png > Sixel/Karragor.six
+cat Sixel/Karragor.six
+img2sixel Pictures/Karragor.jpg > Sixel/Karragor.six
+cat Sixel/Karragor.six
+sixel2png Sixel/Karragor.six
+paru -Syu
+newm-run.sh 
+nvim /usr/local/bin/newm-run.sh
+newm-run.sh 
+moar /home/klownie/.cache/newm_log
+paru start-newm
+start newm
+start-newm
+doas timeshift
+doas timeshift --list
+doas timeshift --restore
+doas timeshift --list
+doas timeshift --restore
+newm-run.sh 
+doas timeshift --restore
+paru starship
+ls
+paru discord update
+paru g++
+paru gcc
+ls
+cd Documents/
+ls
+cd C
+ls
+nvim main.c
+./compile.sh
+./main.out
+ls
+clear
+nvim compile.sh
+./compile.sh
+ls
+./main_2.out
+ls
+neofetch 
+full 
+ls
+ps
+sys
+nmtui
+clear
+lls
+ls
+sys
+ps
+paru rust up
+clear
+cd Documents/rust/sandbox/
+nvim src/main.rs
+cd rust_sandbox
+clear
+paru debian
+nvim src/main.rs
+ld
+ls
+cd BetterDiscord/
+ld
+ls
+cd themes
+;s
+ls
+nvim DarkMatter.theme.css
+nvim chillax.theme.css
+cd doom
+ls python3.10/site-packages/
+ls python3.11/site-packages/
+start-newm 
+moar /home/klownie/.cache/newm_log
+moar /home/klownie/.cache/newm/newm_log
+pip install dasbus
+paru dabus
+paru dasbus
+ls python3.11/site-packages/
+ls python3.11/site-packages/ | grep "d"
+ls python3.11/site-packages/
+ls python3.11/site-packages/ | filter
+ls python3.11/site-packages/ | filter "d"
+ls python3.11/site-packages/ | filter -h
+ls python3.11/site-packages/
+ls python3.11/site-packages/dasbus-1.7-py3.11.egg-info/
+doas nvim /bin/.start-newm
+clear
+ls
+cat /etc/shells
+chsh -s /usr/bin/nu
+clear
+neofetch 
+paru -R pywal
+paru py wal
+sudo dpkg-reconfigure console-setup
+paru dpkg recon
+cd /usr/share/kbd/consolefonts 
+ls
+setfont JetBrains Mono
+sudo vim /etc/default/console-setup
+sudo vim /etc/vconsole.conf
+sudo mkinitcpio -P
+reboot
+neofetch
+sudo vim /etc/vconsole.conf
+sudo mkinitcpio -P
+cd /usr/share/kbd/consolefonts 
+ls
+sudo vim /etc/vconsole.conf
+sudo mkinitcpio -P
+zsh
+curl ip-api.com
+http ip-api.com
+http get ip-api.com
+http get https://ip-api.com/
+curl get https://ip-api.com/
+curl https://ip-api.com/
+curl ip-api.com/
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+paru gitoxide
+clear
+cd Documents/rust/sandbox/
+cd rust_sandbox/
+ls
+open Cargo.toml
+open Cargo.toml 
+open Cargo.toml | get package
+ls
+clear
+nvim ~/.zshrc
+nvim ~/.config/nushell/config.nu
+nvim ~/.config/nushell/env.nu
+open ~/.config/nushell/config.nu
+nvim ~/.config/nushell/env.nu
+clear
+clear
+nvim .config/nvim/lua/user/options.lua
+cd .config/nvim/lua/user/
+paru null ls
+paru nvim-nu
+paru nvim nu
+paru nushell
+nvim
+nvim ~/.config/nushell/env.nu
+blu
+pulsemixer 
+nvim ~/.config/nvim/lua/user/
+nvim ~/.config/nvim/lua/user/options.lua
+nvim ~/.config/nvim/lua/user/plugins/
+nvim ~/.config/nvim/lua/user/plugins/mason.lua
+nvim ~/.config/nvim/lua/user/plugins/user.lua
+nvim ~/.config/nvim/lua/user/plugins/null-ls.lua
+nvim ~/.config/nvim/lua/user/plugins/treesitter.lua
+nvim Documents/bac_orale
+cd .config/nvim/lua/user/
+cd gitdownload/
+ls
+gix clone https://github.com/LhKipp/nvim-nu.git .
+mkdir nvim-nu
+https://github.com/LhKipp/nvim-nu.git nvim-nu/
+git clone https://github.com/LhKipp/nvim-nu.git nvim-nu/
+ls nvim-nu/
+la
+ls
+ls nvim-nu/plugin/
+ls nvim-nu/plugin/nu.lua
+ls nvim-nu/assets/
+ls nvim-nu/ftplugin/
+nvim
+cd nvim-nu/
+ls
+la lua/
+ls lua/
+cp lua/nu.lua ~/.config/nvim/lua/user/
+nvim ~/.config/nushell/env.nu
+cp lua/nu.lua /usr/share/lua/5.1/
+doas cp lua/nu.lua /usr/share/lua/5.1/ 
+nvim ~/.config/nushell/env.nu
+doas rm /usr/share/lua/5.1/nu.lua
+nvim ~/.config/nushell/env.nu
+doas cp lua/nu.lua /usr/share/lua/5.1/ 
+nvim ~/.config/nushell/env.nu
+nvim
+nvim ~/.config/nushell/env.nu
+doas cp lua/nu/ /usr/share/lua/5.1/ 
+doas cp lua/nu/ /usr/share/lua/5.1/  -r
+nvim ~/.config/nushell/env.nu
+paru nvim tree sitter
+nvim
+nvim ~/.config/nushell/env.nu
+paru nvim tree sitter
+nvim ~/.config/nushell/env.nu
+moar ~/.config/nushell/env.nu
+moar ~/.config/nushell/env.nu -h
+bat ~/.config/nushell/env.nu 
+bat -h ~/.config/nushell/env.nu 
+bat -l rust ~/.config/nushell/env.nu 
+nvim ~/.config/nushell/env.nu
+spicetify restore backup apply
+cd
+paru -Syu
+nvim ~/.config/nushell/env.nu
+cd Documents/rust/sandbox/
+nvim rust_sandbox/
+cd rust_sandbox/
+cd Documents/rust/sandbox/rust_sandbox/
+cargo r
+cargo b --realease
+cargo b --release
+./target/release/rust_sandbox
+nvim
+cargo r
+ls
+cd Documents/rust/sandbox/rust_sandbox/
+cargo r
+cd Documents/rust/sandbox/rust_sandbox/
+nvims src/main.rs
+nvim src/main.rs
+cd Documents/rust/sandbox/rust_sandbox/
+neofetch
+cd Documents/rust/sandbox/rust_sandbox/
+cargo r
+cargo b --release
+./target/release/rust_sandbox
+cargo b --release
+./target/release/rust_sandbox
+spark
+paru spark
+xla
+nvim .config/nushell/env.nu
+echo $env.NU_LIB_DIRS
+nvim .config/nushell/config.nu
+ls
+x
+xla
+echo $env.NU_LIB_DIRS
+cd .config/nushell/
+nvim scripts
+xl
+x
+nvim env.nu
+x
+xl
+rm scripts
+echo $env.NU_LIB_DIRS
+mkdir scripts
+nvim scripts/nu_alias_exa.nu
+x
+nvim config.nu
+x
+xl
+x
+ls
+xl
+x
+l
+ls
+nvim scripts/cargo-completions.nu
+nvim config.nu
+nvim scripts/git-completions.nu
+nvim scripts/ani-cli-completions.nu
+nvim config.nu
+cd ..
+up
+up 1
