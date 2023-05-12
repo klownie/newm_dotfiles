@@ -473,3 +473,336 @@ nvim config.nu
 cd ..
 up
 up 1
+chezmoi add nushell/
+git add .
+git git commit -m "added nushell"          
+git commit -m "added nushell"
+git push --force 
+hentaifetch 
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+paru -Syu
+xl scripts/
+chezmoi exit
+chezmoi quit
+chezmoi cd
+cd 
+ls
+cd Documents/rust/sandbox/rust_sandbox/
+git add .
+git commit -m "changed readme"
+cd ..
+la
+ls
+x
+xl
+ls
+cd matrice/
+ls
+cd klownie_matrice/
+ls
+git add .
+git commit -m "changed readme"
+git push --force 
+cargo b --release
+cargo p
+cargo --list
+cd Documents/rust/matrice/klownie_matrice/
+ls
+cargo clippy 
+paru rust
+paru rust up
+nvim ~/.config/newm/config.py
+neofetch
+cd .config/nvim/lua/user/
+ls
+x
+open init.lua
+bat init.lua
+bat .cache/wal/colors-wal.vim
+nvim ~/.config/newm/config.py
+nvim ~/.config/nushell/env.nu
+bat .cache/wal/colors-wal.vim
+cp .cache/wal/colors-wal.vim .config/nvim/lua/user/themes/ 
+nvim
+paru -Syu
+pwd
+open
+open highlights/
+paru -Syu
+paru nvim
+cd gitdownload/
+la
+ls
+rm -R *
+rm -r  *
+ls
+gix clone https://github.com/andreasgrafen/cascade.git cascade
+ls
+cp cascade/chrome/ ../.mozilla/firefox/35oabkhp.default-release/
+cp cascade/chrome/ ../.mozilla/firefox/35oabkhp.default-release/ -r
+pkill firefox
+cp cascade/chrome/ ../.mozilla/firefox/35oabkhp.default-release/ -r
+cd
+nvim .mozilla/firefox/35oabkhp.default-release/chrome/userContent.css
+nvim .mozilla/firefox/35oabkhp.default-release/chrome/userChrome.css
+paru qt browser
+paru qute browser
+paru vimb
+nvim .config/vimb/cookies.db
+nvim .config/vimb/command
+nvim .config/vimb/closed
+cd gitdownload/
+gix clone https://github.com/migueravila/SimpleFox.git simplefox
+cp simplefox/chrome/ ../.mozilla/firefox/35oabkhp.default-release/
+cp simplefox/chrome/ ../.mozilla/firefox/35oabkhp.default-release/ -r
+cd
+nvim ~/.mozilla/firefox/35oabkhp.default-release/chrome/userContent.css
+nvim ~/.mozilla/firefox/35oabkhp.default-release/chrome/userChrome.css
+nvim .config/vimb/config
+nvim .config/vimb/style.css
+nvim .config/vimb/config
+nvim .config/vimb/style.css
+nvim .config/vimb/config
+paru -Syu
+nvim .mozilla/firefox/35oabkhp.default-release/chrome/userChrome.css
+khal
+khal calendar
+nvim .config/khal/config
+khal calendar
+ikhal
+khal
+khal calendar
+mkdir .local/share/khal/calendars/reminder
+mkdir .local/share/khal/calendars/important
+khal calendar
+nvim .config/khal/config
+mkdir .local/share/khal/calendars/home
+khal calendar
+khal
+khal configure
+khal calendar
+nvim .config/kitty/kitty.conf
+khal calendar
+khal
+khal new -h
+khal new --help
+ikhal
+khal new --help
+khal calendar
+nvim .config/khal/config
+poweroff
+khal
+khal calendar
+clear
+ikhal 
+khal calendar
+clear
+x
+cd Documents/rust/matrice/klownie_matrice/
+cd Documents/rust/matrice/matrix-rs/
+nvim
+cd Documents/rust/matrice/klownie_matrice/
+cargo clippy 
+rm Documents/rust/matrice/matrix-rs/ -r
+cd Documents/rust/sandbox/rust_sandbox/
+cargo r
+nvim 
+nvim src/main.rs
+cd Documents/rust/matrice/klownie_matrice/
+cd Documents/rust/sandbox/rust_sandbox/
+clear
+cd Documents/rust/sandbox/rust_sandbox/
+cargo r
+python
+cargo clippy 
+cargo r
+cargo clippy 
+cargo r
+cargo b --release
+./target/release/rust_sandbox
+neofetch
+clear
+python
+clear
+python
+z
+nvim .config/newm/config.py
+paru zoxide
+z Desktop/
+zoxide i
+zoxide Music/
+zoxide --help
+nvim .config/nushell/env.nu
+nvim .config/nushell/config.nu
+clear
+z
+z oo
+z matrice
+zi matrice
+z Documents/
+cd Documents/
+ls
+clear
+ls
+mkdir python
+mv matrix.py python/
+ls
+cd rust
+ls
+mv matrice/klownie_matrice/ .
+ls
+rm matrice/ -r
+ls
+cd sandbox/
+ls
+cargo new rust_sandbox_2
+rename rust_sandbox/ rust_sandbox_1
+ls
+x
+neofetch
+z Documents/matrice
+z Documents/renew
+z Documents/rust/
+zla
+xla
+z klownie_matrice/
+nvim src/main.rs
+z
+z klownie_matrice/
+z Documents/rust/sandbox/rust_sandbox/
+cargo run 
+nvim Cargo.toml
+cargo run 
+cargo b --release
+./target/release/rust_sandbox
+cargo clippy --release 
+cargo clippy
+neofetch
+clear
+cargo clippy
+cargo r
+z Documents/rust/sandbox/rust_sandbox/
+cargo r
+z Documents/rust/klownie_matrice/
+cargo clippy 
+cargo r
+cargo clippy 
+cargo r
+nvim src/lib.rs
+cargo r
+z Documents/rust/klownie_matrice/
+z Documents/rust/sandbox/rust_sandbox/
+cargo r
+clear
+cargo r
+cargo-clippy 
+cargo
+cargo r
+nvim src/main.rs
+cargo r
+nvim src/main.rs
+cargo r
+nvim src/main.rs
+cargo r
+cargo b --release
+./target/release/rust_sandbox
+cargo b --release
+./target/release/rust_sandbox
+nvim Cargo.toml
+nvim src/main.rs
+cargo run --example puffin --features="profile-with-puffin"
+nvim Cargo.toml
+cargo run --example puffin --features="profile-with-puffin"
+cargo c
+cargo check
+paru imgui
+cargo run --example puffin --features="profile-with-puffin"
+puffin
+cargo run --example puffin --features="profile-with-puffin"
+cargo clippy 
+nvim src/main.rs
+cargo r
+nvim src/main.rs
+cargo r
+cargo b --release
+./target/release/rust_sandbox
+cargo b --release
+./target/release/rust_sandbox
+nvim src/main.rs
+cargo r
+nvim
+paru -Syu
+shiny-mirrors refresh
+doas shiny-mirrors refresh 
+doas shiny-mirrors 
+clear
+z Documents/rust/sandbox/rust_sandbox/
+ls
+z Documents/rust/klownie_matrice/
+paru -Syu
+nvim ~/.config/newm/config.py
+nvim ~/.config/newm/key_bindings.py
+nvim ~/.config/newm/config.py
+nvim src/lib.rs
+kitty newm-panel-basic lock --title kitty_lock
+kitty newm-panel-basic lock --title kitty_lock -d
+moar ~/.config/nushell/env.nu -h
+moar /home/klownie/.cache/newm/newm_log
+moar /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375
+z Documents/rust/klownie_matrice/
+nvim src/lib.rs
+ls
+clear
+moar /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375
+bat /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375 
+bat /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375 -p
+bat /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375 -p -h
+bat /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375 -P
+bat /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375 -P -p
+geany /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375  
+curl ip-api.com/
+neofetch
+nmtui
+nvim .config/kitty/kitty.conf
+la lua/
+nvim .config/kitty/kitty.conf
+st
+nvim .config/kitty/kitty.conf
+nvim .config/nushell/config.nu
+ls
+clear
+nvim .config/nushell/config.nu
+ls
+clear
+ls
+neofetch
+clear
+x
+xl
+xla
+xl
+cat .zshrc
+bat .zshrc
+nvim .config/nushell/config.nu
+3 * 5
+a = 3 * 5
+let a = 3 * 5
+a
+echo a
+print("{a}")
+println!("{a}")
+a
+b; c | d
+neofetch
+paru private bin
+nmtui
+neofetch
+x
+x dot_config/
+x
+chezmoi -h
+chezmoi cd
+chezmoi remove .zshrc
+xl
+xla
+xa

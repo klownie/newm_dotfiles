@@ -189,7 +189,7 @@ let-env config = {
     clickable_links: true # enable or disable clickable links. Your terminal has to support links.
   }
   rm: {
-    always_trash: false # always act as if -t was given. Can be overridden with -p
+    always_trash: true # always act as if -t was given. Can be overridden with -p
   }
   cd: {
     abbreviations: false # allows `cd s/o/f` to expand to `cd some/other/folder`
@@ -283,7 +283,7 @@ let-env config = {
     format: "auto" # b, kb, kib, mb, mib, gb, gib, tb, tib, pb, pib, eb, eib, zb, zib, auto
   }
   cursor_shape: {
-    emacs: line # block, underscore, line (line is the default)
+    emacs: underscore # block, underscore, line (line is the default)
     vi_insert: block # block, underscore, line (block is the default)
     vi_normal: underscore # block, underscore, line  (underscore is the default)
   }
@@ -544,3 +544,7 @@ use cargo-completions.nu *
 use git-completions.nu *
 use ani-cli-completions.nu *
 
+alias bat = bat -P -p 
+alias pirate-get = pirate-get -T -S /home/klownie/watch
+
+source ~/.zoxide.nu

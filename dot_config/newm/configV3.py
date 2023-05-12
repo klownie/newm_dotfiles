@@ -60,7 +60,7 @@ def on_reconfigure():
     theme = "groot"
     icons = "Nordic-Folder"
     cursor = "Adwaita"
-    font = "SF Pro 12"
+    font = "JetBrains Mono"
     gtk2 = "~/.gtkrc-2.0"
 
     GSETTINGS = (
@@ -99,6 +99,8 @@ def on_reconfigure():
     # os.environ["GTK_THEME"] = theme
     # os.system("killall albert &")
     # os.system("albert &")
+
+
     notify("Reload", "update config success")
 
 
@@ -151,8 +153,8 @@ pywm = {
 ## Configure Background
 
 background = {
-    "path": os.path.expanduser("~/Pictures/sang-nguyen-asset(1).jpg"),
-    "time_scale": 0.11,
+    "path": os.path.expanduser("~/Pictures/sang-nguyen-asset_2.jpg"),
+    "time_scale": 0.15,
     "anim": True,
 }
 
