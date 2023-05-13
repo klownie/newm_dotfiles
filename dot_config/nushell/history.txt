@@ -19,6 +19,8 @@ neofetch
 ls
 newm.sh
 which nu
+virsh -c qemu:///system start win11
+virsh -c qemu:///system net-start default
 chsh /sbin/nu
 nvim /etc/passwd
 nvim /etc/passwd-
@@ -806,3 +808,89 @@ chezmoi remove .zshrc
 xl
 xla
 xa
+chezmoi re-add
+git add .
+git commit -m "removed .zshrc"
+git push --force 
+chezmoi cd
+geany .zsh_history
+geany .config/nushell/history.txt
+progress 
+doas nethogs
+paru sfvr
+paru vr
+paru sphvr
+paru gulkan
+paru sphvr
+paru vr video
+gopro-vr-player 
+paru wayland egl
+paru -R gopro-vr-player 
+paru vr video
+vr-video-player 
+vr-video-player --flat `Downloads/Lynelle'sTraining[VR](4K@60fps).mp4`
+vr-video-player --sphere --video `Downloads/Lynelle'sTraining[VR](4K@60fps).mp4`
+paru -R vr-video-player
+paru vr video
+paru -R vr-video-player-git
+z Documents/rust/klownie_matrice/
+z Documents/rust/sandbox/rust_sandbox/
+z .config/nvim/
+z lua/user/
+nvim src/main.rs
+cargo r
+neofetch
+clear
+x
+ls
+cargo test 
+nvim .vimspector.json
+nvim
+clear
+cargo r
+clear 
+cargo r
+nvim src/lib.rs
+geany .cache/newm/newm_log.old.2023-05-08-1683540375
+nvim .config/newm/config.py
+z Documents/rust/sandbox/rust_sandbox/
+cargo r
+moar /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375
+z Documents/rust/klownie_matrice/
+cargo r
+nvim src/main.rs
+cargo r
+nvim src/main.rs
+cargo r
+cargo c
+cargo r
+:q
+cargo r
+q
+cargo r
+:q
+cargo r
+:q
+cargo r
+nvim src/lib.rs
+nvim .config/newm/config.py
+nvim .config/newm/key_bindings.py
+moar /home/klownie/.cache/newm/newm_log.old.2023-05-08-1683540375
+moar /home/klownie/.cache/newm/newm_log
+geany .cache/newm/newm_log.old.2023-05-08-1683540375
+geany .cache/newm/newm_log.old.2023-05-13-1683951832
+nvim .config/newm/config.py
+newm-run.sh 
+paru discord
+virsh -c qemu:///system net-start default
+virsh -c qemu:///system start win11
+neofetch
+looking-glass-client 
+paru -Syu
+virsh -c qemu:///system start win11
+looking-glass-client 
+ls /lib/python3.10/site-packages/
+neofetch
+nvim .config/newm/config.py
+geany .cache/newm/newm_log.old.2023-05-13-1683984999
+ls .cache/newm/

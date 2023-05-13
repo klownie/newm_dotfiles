@@ -12,17 +12,23 @@ from newm.view import View
 
 logger = logging.getLogger(__name__)
 mod = "L"  # o "A", "C", "1", "2", "3"
-term = "kitty"
+term = "alacritty"
 
 
-## idk what these are command
+## helper to send notification
 
 def notify(title: str, msg: str, icon="system-settings"):
     os.system(f"notify-send -i '{icon}' -a '{title}' '{msg}'")
 
+
+# helper to execute a bunch of commands 
+
 def execute_iter(commands: tuple[str, ...]):
     for command in commands:
         os.system(f"{command} &")
+
+
+#  helper to get values of for systemd/ini like files.    "kitty_lock",
 
 def set_value(keyval, file):
     var, val = keyval.split("=")
@@ -197,6 +203,7 @@ blur_apps = (
     "kitty", 
     "tenacity",
     "kitty_lock",
+     #"lock",
 )
 
 
@@ -298,7 +305,7 @@ swipe = {"gesture_factor": 3}
 
 panels = {
     "lock": {
-        "cmd": f"{term} newm-panel-basic lock --title kitty_lock",
+        "cmd": f"{term} -e newm-panel-basic lock --title lock",
         "w": 0.7,
         "h": 0.7, 
         "corner_radius": 15,
