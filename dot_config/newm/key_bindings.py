@@ -40,31 +40,31 @@ class KeyBindings:
 
             (alt + "S-Tab", lambda: self.__cycle_views(-1)),
             *((ctrl + str(i), lambda i=i: self.__goto_view(i)) for i in range(1, 11)),
-            (self.__super + "h", lambda: self.__layout.move(-1, 0)),
-            (self.__super + "j", lambda: self.__layout.move(0, 1)),
-            (self.__super + "k", lambda: self.__layout.move(0, -1)),
-            (self.__super + "l", lambda: self.__layout.move(1, 0)),
-            (self.__super + "u", lambda: self.__layout.move(-1, -1)),
-            (self.__super + "m", lambda: self.__layout.move(1, 1)),
-            (self.__super + "i", lambda: self.__layout.move(1, -1)),
-            (self.__super + "n", lambda: self.__layout.move(-1, 1)),
+            (self.__super + "h", lambda: self.__layout.move(-0.5, 0)),
+            (self.__super + "j", lambda: self.__layout.move(0, 0.5)),
+            (self.__super + "k", lambda: self.__layout.move(0, -0.5)),
+            (self.__super + "l", lambda: self.__layout.move(0.5, 0)),
+            (self.__super + "u", lambda: self.__layout.move(-0.5, -0.5)),
+            (self.__super + "m", lambda: self.__layout.move(0.5, 0.5)),
+            (self.__super + "i", lambda: self.__layout.move(0.5, -0.5)),
+            (self.__super + "n", lambda: self.__layout.move(-0.5, 0.5)),
             (self.__super + "t", lambda: self.__layout.move_in_stack(4)),
 
 
             # Newm mouvement of windows :
 
-            (self.__super + ctrl + "h",lambda: self.__layout.move_focused_view(-1, 0)),
-            (self.__super + ctrl + "j", lambda: self.__layout.move_focused_view(0, 1)),
-            (self.__super + ctrl + "k",lambda: self.__layout.move_focused_view(0, -1)),
-            (self.__super + ctrl + "l", lambda: self.__layout.move_focused_view(1, 0)),
+            (self.__super + ctrl + "h",lambda: self.__layout.move_focused_view(-0.5, 0)),
+            (self.__super + ctrl + "j", lambda: self.__layout.move_focused_view(0, 0.5)),
+            (self.__super + ctrl + "k",lambda: self.__layout.move_focused_view(0, -0.5)),
+            (self.__super + ctrl + "l", lambda: self.__layout.move_focused_view(0.5, 0)),
 
 
             #Newm window resizing :
 
-            (self.__super + alt + "h",lambda: self.__layout.resize_focused_view(-1, 0)),
-            (self.__super + alt + "j",lambda: self.__layout.resize_focused_view(0, 1)),
-            (self.__super + alt + "k",lambda: self.__layout.resize_focused_view(0, -1)),
-            (self.__super + alt + "l",lambda: self.__layout.resize_focused_view(1, 0)),
+            (self.__super + alt + "h",lambda: self.__layout.resize_focused_view(-0.5, 0)),
+            (self.__super + alt + "j",lambda: self.__layout.resize_focused_view(0, 0.5)),
+            (self.__super + alt + "k",lambda: self.__layout.resize_focused_view(0, -0.5)),
+            (self.__super + alt + "l",lambda: self.__layout.resize_focused_view(0.5, 0)),
 
 
             #Other Newm focus mouvemnt :
@@ -73,8 +73,8 @@ class KeyBindings:
             (self.__super + "space", self.__layout.toggle_focused_view_floating),
             # ("Henkan_Mode", self.layout.move_workspace),
             (alt + "Tab", self.__cycle_views),
-            (self.__super + "comma", lambda: self.__layout.basic_scale(1)),
-            (self.__super + "period", lambda: self.__layout.basic_scale(-1)),
+            (self.__super + "comma", lambda: self.__layout.basic_scale(0.5)),
+            (self.__super + "period", lambda: self.__layout.basic_scale(-0.5)),
             (self.__super + "f", self.__layout.toggle_fullscreen),
             (self.__super + "p", lambda: self.__layout.ensure_locked(dim=True)),
             (self.__super + "P", self.__layout.terminate),
@@ -146,8 +146,8 @@ class KeyBindings:
 
             #App laucher :
 
-            # (self.__super + "d", lambda: os.system("tofi-drun --drun-launch=true &")),
-            (self.__super + "d", lambda: os.system(self.__term + " --title kitty_floats -e" + " fzf-run &")),
+            (self.__super + "d", lambda: os.system("tofi-drun --drun-launch=true &")),
+            # (self.__super + "d", lambda: os.system(self.__term + " --title kitty_floats -e" + " fzf-run &")),
             # (self.__super + "d", lambda: os.system(self.__term + " --title kitty_floats -e" + " sway-launcher-desktop &")),
             (self.__super + "D", lambda: os.system(self.__term + " --title kitty_floats -e" + " dm-hub -f &")),
             # ("XF86LaunchA", lambda: os.system(f"{self.ROFI}/apps &")),

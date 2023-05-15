@@ -8,11 +8,20 @@ from newm.helper import BacklightManager
 from newm.layout import Layout
 from newm.view import View
 
+'''
 
+d8b   db d88888b db   d8b   db .88b  d88.         .d8b.  d888888b db   db  .d8b.    
+888o  88 88'     88   I8I   88 88'YbdP`88        d8' `8b `~~88~~' 88   88 d8' `8b   
+88V8o 88 88ooooo 88   I8I   88 88  88  88        88ooo88    88    88ooo88 88ooo88   
+88 V8o88 88~~~~~ Y8   I8I   88 88  88  88 C8888D 88~~~88    88    88~~~88 88~~~88   
+88  V888 88.     `8b d8'8b d8' 88  88  88        88   88    88    88   88 88   88   
+VP   V8P Y88888P  `8b8' `8d8'  YP  YP  YP        YP   YP    YP    YP   YP YP   YP   
+
+'''
 
 logger = logging.getLogger(__name__)
 mod = "L"  # o "A", "C", "1", "2", "3"
-term = "alacritty"
+term = "kitty"
 
 
 ## helper to send notification
@@ -192,6 +201,7 @@ float_app_ids = (
 float_titles = (
     "Dialect",
     "kitty_floats",
+    "kitty_floats_nofocus"
 )
 
 
@@ -210,37 +220,38 @@ blur_apps = (
 ## Some special rules about viewing when certain apps are opened
 
 def rules(view: View):
+
+    ## default
+
     app_rule = None
-    # NOTE: Show view info
+
+    ## Show view info
+
     # os.system(
     #     f"echo '{view.app_id}, {view.title}, {view.role}, {view.pid}, {view.panel}' >> ~/.config/newm/apps"
     # )
-    # Set float common rules
+
+    ## Set float common rules
+
     # if view.up_state.is_floating and view.app_id != "albert":
     #     app_rule = common_rules
+
     if view.app_id == "catapult":
         app_rule = {"float": True, "float_pos": (0.5, 0.1)}
-    # elif view.app_id == "albert" and view.title == "Albert":
-    #     app_rule = {
-    #         "float": True,
-    #         "float_size": (640, 440),
-    #         # "float_size": (900, 900),
-    #         "float_pos": (0.5, 0.22),
-    #         # "opacity": 0.8,
-    #         # "blur": {"radius": 5, "passes": 6},
-    #     }
-    # elif view.title is not None and "compartir indicador" in view.title.lower():
-    #     return {"float": True, "float_size": (30, 20)}
+
     elif view.app_id == "io.bassi.Amberol":
         app_rule = {"opacity": 0.7, "blur": {"radius": 5, "passes": 6}}
+
     elif view.app_id == "app.landrop.landrop" and view.title == "Transferring":
         app_rule = {
             "float": True,
             "float_size": (600, 100),
             "float_pos": (0.5, 0.15),
         }
+
     elif view.app_id in float_app_ids or view.title in float_titles:
         app_rule = common_rules
+
     elif view.app_id in blur_apps:
         app_rule = {"blur": {"radius": 5, "passes": 6}}
     return app_rule
@@ -305,7 +316,7 @@ swipe = {"gesture_factor": 3}
 
 panels = {
     "lock": {
-        "cmd": f"{term} -e newm-panel-basic lock --title lock",
+        "cmd": f"{term} -e newm-panel-basic lock --title kitty_lock",
         "w": 0.7,
         "h": 0.7, 
         "corner_radius": 15,

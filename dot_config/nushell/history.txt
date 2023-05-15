@@ -894,3 +894,228 @@ neofetch
 nvim .config/newm/config.py
 geany .cache/newm/newm_log.old.2023-05-13-1683984999
 ls .cache/newm/
+chezmoi re-add
+git add .
+git commit -m "atha PR"
+git push --force 
+virsh -c qemu:///system net-start default
+virsh -c qemu:///system start win11
+looking-glass-client 
+virsh -c qemu:///system shutdown win11
+virsh -c qemu:///system start win11
+virsh -c qemu:///system shutdown win11
+looking-glass-client 
+nvim .config/looking-glass/client.ini
+looking-glass-client 
+gdu
+doas gdu /
+doas gparted
+bleachbit 
+doas gdu /
+bleachbit 
+doas gdu /
+doas gdu /run/
+doas timeshift-gtk
+doas gdu /
+doas gparted
+nvim .config/looking-glass/client.ini
+q
+nvim .config/newm/config.py
+nvim .config/kitty/kitty.conf
+doas bleachbit
+progress 
+doas progress
+z Documents/rust/klownie_matrice/
+bluetuith
+z Documents/rust/sandbox/rust_sandbox/
+doas gparted
+nvim src/lib.rs
+doas gparted
+btm
+htop
+doa
+doas gparted
+newm-run.sh 
+pip3
+paru -R newm-atha
+paru -R newm-atha-git
+pip3 install --user git+https://git.sr.ht/~atha/pywm-atha
+paru newm
+newm-run.sh 
+pip3 install --user git+https://git.sr.ht/~atha/pywm-atha
+ls /lib/python3.11/site-packages/prot*
+doas rm /lib/python3.11/site-packages/prot* 
+doas rm /lib/python3.11/site-packages/prot*  -r
+ls /lib/python3.11/site-packages/prot*
+pip3 install --user git+https://git.sr.ht/~atha/pywm-atha
+paru newm
+paru -R newm-atha-git
+pip3 install --user git+https://git.sr.ht/~atha/pywm-atha
+paru ninja
+pip3 install --user git+https://git.sr.ht/~atha/pywm-atha
+python3 -m pip install --upgrade pip setuptools wheel
+pip3 install --user git+https://git.sr.ht/~atha/pywm-atha
+pip3 install --user git+https://git.sr.ht/~atha/newm-atha
+newm-run.sh 
+newm-run.sh 
+start-newm 
+pip3 install --user git+https://git.sr.ht/~atha/newm-atha
+pip3 install --user git+https://git.sr.ht/~atha/pywm-atha
+git clone https://git.src.ht/~atha/pywm-atha
+ls
+paru ne
+paru newm
+paru -Syu
+doas OVPN/nl-free-123.protonvpn.net.udp.ovpn
+curl ip-api.com/
+hentaifetch 
+speedtest-rs 
+doas openvpn OVPN/nl-free-123.protonvpn.net.udp.ovpn
+curl ip-api.com/
+speedtest-rs 
+curl ip-api.com/hanime.tv
+doas openvpn OVPN/nl-free-148.protonvpn.net.udp.ovpn
+neofetch
+x
+neofetch
+ls
+neofetch
+nvim .config/neofetch/config.conf
+neofetch
+nvim .config/neofetch/config.conf
+neofetch
+rxfetch 
+clear
+rxfetch 
+clear && rxfetch
+clear ; rxfetch
+ls
+z Documents/rust/sandbox/rust_sandbox/
+cargo r
+nvim src/main.rs
+rxfetch 
+clear ; rxfetch
+z Documents/rust/sandbox/rust_sandbox/
+nvim src/main.rs
+z 
+z Documents/rust/klownie_matrice/
+z .config/newm/config.py
+nvim .config/newm/config.py
+tofi-drun 
+paru tofi
+tofi man
+man tofi
+man tofi 5
+man tofi -h
+tofi-drun 
+tofi-drun --drun-launch=true 
+nvim /usr/bin/dm-hub
+dm-hub -f
+dm-hub -d
+dm-hub -t
+dm-hub -r
+dm-hub -j
+dm-hub -t
+dm-hub -p hi
+dm-hub --prompt-text hi
+tofi --prompt-text hi
+tofi-run  --prompt-text hi
+tofi -h
+dm-hub -t
+man 5 tofi 
+man tofi 
+man 2 tofi 
+man 1 tofi 
+dm-hub -t
+tofi --require-match
+tofi-run  --require-match
+tofi-run  --require-match hi
+tofi-run  --require-match true
+tofi-drun  --require-match true
+tofi-drun --drun-launch=true --require-match true
+dm-hub -t
+printf "%s\n" "Shut down" "Reboot" "Suspend" "Hibernate" | tofi
+tofi printf "%s\n" "Shut down" "Reboot" "Suspend" "Hibernate" 
+tofi |printf "%s\n" "Shut down" "Reboot" "Suspend" "Hibernate" 
+dm-hub -t
+tofi -h
+dm-hub -t
+doas nvim /usr/bin/dm-hub 
+doas nvim /usr/bin/dm-logout
+doas nvim /usr/bin/dm-hub 
+doas nvim /usr/bin/dm-logout
+man 5 tofi 
+man 1 tofi 
+doas nvim /etc/dmscripts/
+nvim .config/tofi/config
+tofi-drun 
+nvim 
+nvim .config/newm/key_bindings.py
+ls
+nvim .cache/wal/colors
+nvim .cache/wal/colors-wal-dmenu.h
+nvim .config/tofi/config
+tofi-drun 
+bluetuith
+nvim .config/kitty/kitty.conf
+nvim .cache/wal/colors.scss
+newm-run.sh 
+neofetch
+nvim .config/tofi/config
+nvim .config/kitty/kitty.conf
+nvim .config/tofi/config
+nvim .cache/wal/colors.scss
+nvim .config/newm/key_bindings.py
+nvim .config/newm/config.py
+nvim .config/newm/key_bindings.py
+newm-run.sh 
+nvim .config/newm/key_bindings.py
+newm-run.sh 
+neofetch
+clear
+cd Documents/
+mkdir matrice_listesuccesseurs
+cd matrice_listesuccesseurs/
+nvim V1.py
+flatpak run 
+flatpak run --list
+flatpak --list
+thonny
+paru thonny
+z Documents/matrice_listesuccesseurs/
+python3 V3.py
+newm-run.sh 
+z Documents/matrice_listesuccesseurs/
+python3 V3.py
+q
+python3 V3.py
+nvim V3.py
+cp V3.py V4.py
+python3 V3.py
+python3 V4.py
+q
+.exit
+python3 V4.py
+q
+python3 V4.py
+:q
+python3 V4.py
+nvim V4.py
+z Documents/rust/sandbox/rust_sandbox/
+cargo r
+cargo b --release
+./target/release/rust_sandbox
+nvim src/main.rs
+nvim /usr/local/bin/wayland_enablement.sh
+neofetch
+paru nvidia
+nvtop
+nvidia-smi
+grub-customizer 
+doas xhost +
+grub-customizer 
+paru nvidia
+z Documents/rust/sandbox/rust_sandbox/
+./target/release/rust_sandbox
+nvim src/main.rs
+cargo r
