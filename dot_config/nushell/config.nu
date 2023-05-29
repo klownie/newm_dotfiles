@@ -283,9 +283,9 @@ let-env config = {
     format: "auto" # b, kb, kib, mb, mib, gb, gib, tb, tib, pb, pib, eb, eib, zb, zib, auto
   }
   cursor_shape: {
-    emacs: underscore # block, underscore, line (line is the default)
+    emacs: block # block, underscore, line (line is the default)
     vi_insert: block # block, underscore, line (block is the default)
-    vi_normal: underscore # block, underscore, line  (underscore is the default)
+    vi_normal: block # block, underscore, line  (underscore is the default)
   }
   color_config: $dark_theme   # if you want a light theme, replace `$dark_theme` to `$light_theme`
   use_grid_icons: true
@@ -544,6 +544,7 @@ use cargo-completions.nu *
 use git-completions.nu *
 use ani-cli-completions.nu *
 
+alias q = exit 
 alias bat = bat -P -p 
 alias pirate-get = pirate-get -T -S /home/klownie/watch
 

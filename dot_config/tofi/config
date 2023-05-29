@@ -11,9 +11,9 @@ font-size = 10
 prompt-text = "❯ "
 corner-radius = 7
 hide-cursor = true
-background-color = #160f13
-text-color = #9DA8A6
-selection-color = #CAAA61
-border-color = #519CC9
-border-width = 3
+background-color = #191a1a
+text-color = #B2B2B2
+selection-color = #eae7e3
+border-color = #C7C2BD
+border-width = 2
 

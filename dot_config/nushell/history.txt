@@ -1119,3 +1119,1241 @@ z Documents/rust/sandbox/rust_sandbox/
 ./target/release/rust_sandbox
 nvim src/main.rs
 cargo r
+chezmoi re-add
+git add .
+git commit 
+git push --force 
+neofetch
+chezmoi cd
+ls
+chezmoi remove dot_oh-my-zsh/
+exut
+chezmoi remove dot_oh-my-zsh/
+chezmoi remove .oh-my-zsh/
+cd
+chezmoi remove .oh-my-zsh/
+git add .
+git commit 
+git push --force 
+paru -Syu
+nvim .config/newm/key_bindings.py
+paru -Syu
+paru nvidia
+newm-run.sh 
+git clone https://github.com/HikariKnight/quickpassthrough.git
+cd quickpassthrough
+./vfio-setup
+./vfio-verify
+nvim /etc/modprobe.d/vfio.conf
+nvidia-smi
+paru nvidia
+mkinitcpio -P
+doas mkinitcpio -P 
+nvidia-smi
+nvtop
+newm-run.sh 
+doas nvim /usr/local/bin/wayland_enablement.sh
+newm-run.sh 
+doas nvim /usr/local/bin/wayland_enablement.sh
+newm-run.sh 
+doas nvim /usr/local/bin/wayland_enablement.sh
+newm-run.sh 
+doas nvim /usr/local/bin/wayland_enablement.sh
+nvtop
+doas grub-customiser
+doas grub-customizer
+nvtop
+newm-run.sh 
+doas nvim /usr/local/bin/wayland_enablement.sh
+newm-run.sh 
+moar /home/klownie/.cache/newm/newm_log
+paru seatd
+doas systemctl status seatd
+doas systemctl status libseat
+doas systemctl status libseatd
+doas systemctl status logind
+doas systemctl start seatd
+newm-run.sh 
+moar /home/klownie/.cache/newm/newm_log
+doas systemctl start seatd --user
+doas systemctl start --user seatd 
+doas systemctl --user start seatd 
+systemctl start seatd 
+systemctl status seatd 
+newm-run.sh 
+moar /home/klownie/.cache/newm/newm_log
+systemctl status seatd.sock 
+moar /home/klownie/.cache/newm/newm_log
+systemctl status /run/seatd.sock
+systemctl enable seatd 
+systemctl status /run/seatd.sock
+systemctl status seatd
+newm-run.sh 
+moar /home/klownie/.cache/newm/newm_log
+doas nvim /usr/local/bin/newm-run.sh
+doas vim /usr/local/bin/newm-run.sh
+nvim /usr/local/bin/newm-run.sh
+doas nvim /usr/local/bin/newm-run.sh
+newm-run.sh 
+moar /home/klownie/.cache/newm/newm_log
+doas nvim /usr/local/bin/newm-run.sh
+newm-run.sh 
+moar /home/klownie/.cache/newm/newm_log
+doas nvim /usr/local/bin/newm-run.sh
+newm-run.sh 
+doas nvim /usr/local/bin/newm-run.sh
+doas nvim /usr/local/bin/wayland_enablement.sh
+newm-run.sh 
+doas newm-run.sh 
+doas nvim /usr/local/bin/wayland_enablement.sh
+newm-run.sh 
+moar /home/klownie/.cache/newm/newm_log
+nvtop
+moar /home/klownie/.cache/newm/newm_log
+newm-run.sh 
+moar /home/klownie/.cache/newm/newm_log
+ls /usr/lib/
+ls /usr/lib | where "nv"
+ls /usr/lib | where "nvi*"
+ls /usr/lib | where nvi*
+ls /usr/lib | where 
+ls /usr/lib | grep "nv"
+ls /usr/lib/libEGL_nvidia.so.530.41.03
+ls /usr/lib/libEGL_nvidia.so.0
+ls /usr/lib/libEGL_nvidia.so
+ls /usr/lib/libEGL_nvidia.so.0
+ls /usr/lib/libEGL
+ls /usr/lib/libEGL*
+doas nvim /usr/local/bin/newm-run.sh
+newm-run.sh 
+paru prime
+prime
+prime | glxgears 
+nvim /usr/local/bin/newm-run.sh
+doas nvim /usr/local/bin/newm-run.sh
+doas nvim /usr/local/bin/wayland_enablement.sh
+newm-run.sh 
+doas nvim /usr/local/bin/newm-run.sh
+prime | newm-run.sh 
+doas nvim /usr/local/bin/newm-run.sh
+prime | start-newm -d
+prime | flatpak run com.valvesoftware.Steam
+nvtop
+tty-clock 
+newm-run.sh 
+doas openvpn OVPN/nl-free-148.protonvpn.net.udp.ovpn
+doas openvpn OVPN/jp-free-04.protonvpn.net.udp.ovpn
+nvtop
+doas openvpn OVPN/jp-free-04.protonvpn.net.udp.ovpn
+#
+# echo
+z Documents/
+z matrice_listesuccesseurs/
+nvim V4.py
+nvim ~/.config/kitty/kitty.conf
+z Documents/matrice_listesuccesseurs/
+python3 V4.py
+nvim V4.py
+python3 V4.py
+paru tofi
+doas bleachbit
+bleachbit
+doas gdu /
+neofetch
+nvim .config/neofetch/config.conf
+paru du dus
+paru du dust
+du 
+dust
+paru battop
+paru auto cpu freq
+nvim /etc/auto-cpufreq.conf
+doas nvim /etc/auto-cpufreq.conf 
+sudo auto-cpufreq --live
+auto-cpufreq --stats
+doas auto-cpufreq --install
+systemctl enable auto-cpufreq
+battop 
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors
+glxgears 
+xrandr
+nvim .config/newm/config.py
+newm-run.sh 
+glxgears 
+nvim .config/newm/config.py
+glxgears 
+nvim .config/newm/config.py
+xrandr
+wlr-randr 
+nvim .config/newm/config.py
+newm-run.sh 
+glxgears -h
+glxgears 
+xrandr
+nvim .config/newm/config.py
+wlr-randr
+nvim .config/newm/config.py
+glxgears 
+nvim .config/newm/config.py
+newm-run.sh 
+bat src/wm/shaders/texture
+nvim .config/newm/config.py
+glxgears 
+sudo xrandr
+sudo wlr-randr 
+paru refresh rate
+nvim .config/newm/config.py
+newm-run.sh 
+glxgears 
+nvim .config/newm/config.py
+glxgears 
+moar /home/klownie/.cache/newm/newm_log
+systemctl status auto-cpufreq
+auto-cpufreq --stats
+battop 
+battop -h
+battop 0.25
+battop 1
+battop -d 0.25
+battop -d 1
+doas battop
+battop -d 1
+z Documents/matrice_listesuccesseurs/
+z Documents/rust/
+z klownie_matrice/
+z Documents/rust/sandbox/rust_sandbox/
+cargo r
+:q
+nvim src/main.rs
+cargo r
+nvim .config/newm/config.py
+nvim .config/nushell/config.nu
+nvim src/lib.rs
+cargo r
+nvim V4.py
+z ..
+cargo r
+neofetch
+z Documents/
+python
+nvim EPS/
+battop -d 1
+bleachbit
+doas openvpn OVPN/jp-free-04.protonvpn.net.udp.ovpn
+z Documents/
+ls
+rm -r renewm/
+gix clone 'https://git.sr.ht/~klownie/newm-atha' renewm
+cd renewm/
+ls
+nvim setup.pyq
+nvim setup.py
+cargo new init
+ls
+rm -r init/
+cargo new renewm
+nvim
+cargo new repywm
+nvim
+z
+gix clone 'https://git.sr.ht/~klownie/pywm-atha' repywm
+ls
+z Documents/
+ls
+rm -r renewm/
+ls
+z
+mkdir Projects
+cd Projects/
+newm-rs
+mkdir newm-rs
+cargo new renewm
+rm -r renewm/
+cd newm-rs/
+cargo new renewm
+cargo new repywm
+gix clone 'https://git.sr.ht/~atha/newm-atha' newm-atha
+ls
+gix clone 'https://git.sr.ht/~atha/pywm-atha' pywm
+ls
+paru -Syu
+newm-rs
+pkill electron
+z Documents/
+ls
+z Projects/newm-rs/
+gix clone 'https://git.sr.ht/~atha/pywm-atha' pywm
+git clone 'https://git.sr.ht/~atha/pywm-atha' pywm
+nvim
+paru -Syu
+ani-cli 
+ani-cli
+z Documents/rust/klownie_matrice/
+z Documents/rust/sandbox/rust_sandbox/
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+neofetch
+cargo r
+cargo clippy 
+cargo r
+cargo clippy 
+:q
+cargo clippy 
+:q
+cargo r
+z Documents/rust/sandbox/rust_sandbox/
+nvim 
+cargo r
+cargo r
+cargo clippy 
+cargo r
+cargo b --release
+./target/release/rust_sandbox
+cargo b --release
+./target/release/rust_sandbox
+nvim .config/newm/config.py
+nvim .config/newm/configV3.py
+brightnessctl set +2% 
+brightnessctl set -30% 
+brightnessctl set 30% -
+brightnessctl set -30% 
+brightnessctl set 30% -
+brightnessctl set 25% -
+volumectl toggle-mute 
+volumectl -u up 
+volumectl toggle
+volumectl up
+volumectl upip
+volumectl up
+nvim .config/newm/key_bindings.py
+paru -Syu
+paru shotman
+paru grimblast
+paru screenshot way
+paru inverse dark
+cd gitdownload/
+gix clone https://github.com/yeyushengfan258/Inverse-dark-kde.git inverse-dark
+z inverse-dark/
+./install.sh
+paru gtk-theme-breath
+paru gtk theme breath
+qt5ct 
+kvantummanager 
+gnome-tweaks 
+macchina 
+glxgears 
+macchina 
+newm-run.sh 
+nvim .config/nushell/config.nu
+nmtui
+speedtest-rs 
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+doas openvpn OVPN/nl-free-123.protonvpn.net.udp.ovpn
+mv Downloads/jp-free-10.protonvpn.net.udp.ovpn OVPN/
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+flatpak install flathub com.github.micahflee.torbrowser-launcher
+flatpak run com.github.micahflee.torbrowser-launcher
+speedtest-rs 
+paru -Syu
+z Documents/rust/sandbox/rust_sandbox/
+cargo r
+z Documents/rust/klownie_matrice/
+z .config/nvim/lua/user
+nvim
+z ..
+nvim
+z ..
+nvim
+z lua/user/
+nvim
+:q
+nvim 
+nvim 
+wal -i ~/Pictures/31cc4419f358ed1215a38a0ee9e8ab67.jpg
+wal -i ~/Pictures/henu-caulfield-joo-0210-size.jpg
+neofetch
+z Projects/newm-rs/
+ls
+neofetch
+ls
+z gitdownload/
+git clone https://github.com/yrwq/termstart
+neofetch
+unimatrix 
+z
+ls
+pipes-rs 
+nvim gitdownload/termstart/css/themes.css
+nvim .config/tofi/config
+nvim .cache/wal/colors.scss
+dust
+fetchfetch 
+pfetch 
+rxfetch 
+clear
+rxfetch 
+ls
+xla
+la
+lla
+ls -la
+ls
+clear
+nvim
+nvim
+nvim gitdownload/termstart/css/style.css
+nmtui
+cd gitdownload/
+git clone https://github.com/ycatsh/firefox-themes.git
+cf firefox-themes/
+z firefox-themes/
+ls
+z .mozilla/firefox/35oabkhp.default-release/
+ls
+ls chrome/
+z chrome/
+moar chrome/userChrome.css
+nvim userChrome.css
+nvim chrome/userChrome.css
+nvim chrome/userContent.css
+nvim userContent.css
+ls
+z ..
+mkdir startpage
+z startpage/
+ls themes/
+cp ~/gitdownload/firefox-themes/themes/idyllic/ .
+cp ~/gitdownload/firefox-themes/themes/idyllic/ . -r
+ls
+z ..
+ls prefs.js
+mkdir prefs
+nvim prefs/
+nvim prefs/autoconfig.js
+nvim //
+pref("general.config.filename", "autoconfig.cfg");
+pref("general.config.obscure_value", 0);
+nvim autoconfig.js
+z
+z .mozilla/firefox/35oabkhp.default-release/
+nvim chrome/userChrome.css
+nvim autoconfig.js
+ls startpage/
+rm startpage/idyllic/ -r
+cp ~/gitdownload/firefox-themes/themes/idyllic/* ./startpage/
+cp ~/gitdownload/firefox-themes/themes/idyllic/* ./startpage/ -r
+ls startpage/
+pwd
+cd startpage/
+pwd
+nvim ../autoconfig.js
+nvim ../autofill-profiles.json
+nvim ../autoconfig.js
+cp ~/gitdownload/firefox-themes/themes/cat/* ./startpage/ -r
+cp ~/gitdownload/firefox-themes/themes/cat/* . -r
+ls
+nvim style.css
+moar ~/gitdownload/firefox-themes/themes/cat/index.html
+:q
+paru five fonts
+paru -Syu
+paru nushell
+paru newm
+paru paru
+paru moar
+paru paru
+paru -Syu
+paru shotman
+shotman 
+shotman --help
+nvim  .mozilla/firefox/35oabkhp.default-release/chrome/userChrome.css
+man shotman
+cd Projects/newm-rs/
+nvim .config/nvim/lua/user/
+nvim
+nvim .config/nvim/lua/user/
+z .config/nvim/lua/user
+nvim 
+nvim
+neofetch
+paru -Syu
+nvim
+paru lock
+paru -Syu
+paru pipes
+doas nvim /etc/paru.conf
+paru -R pipes-rs-git
+paru pipes-rs 
+pipes-rs 
+z Projects/newm-rs/
+z Documents/rust/klownie_matrice/
+nvim
+z
+z Documents/rust/sandbox/rust_sandbox/
+nvim 
+z ~/Documents/rust/klownie_matrice/
+nvim 
+nvim
+z ..
+mv newm-rs/ renewm
+ls
+ls renewm/
+cd renewm/
+git init 
+git config --global init.defaultBranch main
+git init 
+git add .
+git commit -m "Initial commit"
+git add .
+cd renewm/
+ls
+git add .
+git commit -m "Initial commit"
+git config --global init.defaultBranch main
+git remote add origin https://github.com/klownie/renewm
+git push -u origin main
+git commit -m "Initial commit"
+git branch -r
+git init 
+git commit -m "Initial commit"
+git branch
+git branch main
+git checkout main
+git branch --unset-upstream
+git branch -u origin/main
+git branch -d master
+git branch --unset-upstream
+git branch -u origin/main
+git commit -m "Initial commit"
+git push -u origin main
+git pull origin main
+git config pull.rebase false
+git pull origin main
+ls
+ls src/
+moar src/main.rs
+cd ..
+nvim 
+git branch main
+git checkout main
+git remote add origin https://github.com/klownie/renewm
+git add re*
+z repywm/
+git commit -m "Initial commit"
+git add .
+git commit -m "Initial commit"
+z ..
+git commit -m "Initial commit"
+git add re*
+git commit -m "Initial commit"
+git branch
+git branch main
+git checkout main
+git branch -d master
+git branch --unset-upstream
+git branch -u origin/main
+git push -u origin main
+git pull origin main
+git pull origin main --no-rebase
+git merge origin main
+git merge main
+git pull origin main --no-rebase --allow-unrelated-histories
+ls
+git commit -m "Merge remote changes"
+git add re*
+git commit -m "Merge remote changes"
+git add renewm/
+git add repywm/
+git commit -m "Merge remote changes"
+git push -u origin main
+git commit -m "Merge remote changes"
+git add .
+cd renewm/
+ls
+ls -la
+rm .git*
+rm .git* -r
+ls
+cd ..
+ls
+cd renewm/
+ls
+z ..
+z repywm/
+ls
+cd ..
+git add .
+ls
+git add re*
+git commit -m "Merge remote changes"
+git push -u origin main
+mv pywm/ pywm-atha
+ls
+git add .
+git rm --cached pywm
+la
+ls -la
+xd renewm/
+z renewm/
+ls -la
+z ..
+z repywm/
+ls
+ls -la
+rm .git* -r
+ls -la
+z ..
+git add .
+git commit -m "Merge remote changes"
+git push -u origin main
+git config --remove-section submodule.renewm
+git config --remove-section renewm/
+git rm --cached renewm/
+ls
+git rm --cached repywm/
+git commit -m "Remove submodule and include its contents"
+git push -u origin main
+git add ..
+git add .
+ls
+git commit -m "Remove submodule and include its contents"
+git push -u origin main
+ls
+git submodule add 'https://git.sr.ht/~atha/newm-atha' newm-atha/
+rm newm-atha/
+rm newm-atha/ -r
+rm pywm-atha/ -r
+ls
+git submodule add 'https://git.sr.ht/~atha/newm-atha' newm-atha/
+ls
+git add .
+git commit -m "Remove submodule and include its contents"
+git push -u origin main
+ls
+git submodule add 'https://git.sr.ht/~atha/newm-atha' newm-atha/
+ls
+git submodule add 'https://git.sr.ht/~atha/pywm-atha' pywm-atha/
+ls
+git commit -m "added the submodules for reference"
+git push -u origin main
+nvim README.md
+git add .
+git commit -m "added readme"
+git push -u origin main
+nvim README.md
+git add .
+git commit 
+git push -u origin main
+nvim README.md
+git add .
+git commit -m "improved readme"
+git push -u origin main
+z
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+z repywm/
+ls
+paru -Syu
+neofetch
+z Documents/rust/sandbox/rust_sandbox/
+nvim
+z ../../klownie_matrice/
+git commit -m "working on repywm prototype"
+git add .
+git commit -m "working on repywm prototype"
+git push -u origin main
+z Projects/newm-rs/
+z Projects/renewm/
+git push -u origin main
+nvim
+git push -u origin main
+nvim
+git add .
+git commit -m "working on repywm prototype"
+git push -u origin main
+ls
+nvim repywm/src/main.rs
+z repywm/
+git add .
+git commit -m "working on repywm prototype"
+ls -la
+z ..
+git commit -m "working on repywm prototype"
+git add .
+git commit -m "working on repywm prototype"
+git commit 
+z repywm/
+ls
+ls src/
+git add .
+git commit 
+cd src/
+ls
+git add .
+git commit -m "working on repywm prototype"
+git push -u origin main
+z ..
+ls
+nvim .git/FETCH_HEAD
+nvim .git/config
+nvim
+z Projects/renewm/
+z Documents/
+ls
+z python/
+ls
+z ..
+z NSI/
+ls
+neofetch
+python Documents/NSI/parcours_graphes.py
+nvim parcours_graphes.py
+python Documents/NSI/parcours_graphes.py
+z Documents/matrice_listesuccesseurs/
+python Documents/matrice_listesuccesseurs/V4.py
+python Documents/NSI/parcours_graphes.py
+neofetch 
+systemctl suspend
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+doas openvpn OVPN/nl-free-34.protonvpn.net.udp.ovpn
+nvim 
+git add .
+git commit -m "working on repywm prototype"
+git branch
+nvim 
+git commit -m "working on repywm prototype"
+nvim
+git push -u origin main
+nvim
+git checkout main
+git add repywm/target/.rustc_info.json
+git commit -m "Committing changes to .rustc_info.json"
+git checkout <branch-name>
+git checkout main
+git commit -m "working on repywm prototype"
+git add .
+git commit -m "working on repywm prototype"
+dust 
+git push -u origin main
+gix push -u origin main
+gix --help
+gix push -u origin main
+git push -u origin main
+nvim
+z Projects/renewm/
+nvim
+ paru crust
+nmtui
+z
+z gitdownload/
+gix clone https://github.com/NishanthSpShetty/crust.git crust
+z crust/
+ls
+cargo b
+z Projects/renewm/
+z pywm-atha/
+ls
+pwd src
+pwd -h
+pwd --help
+z src
+ls
+pwd
+ls
+cargo run
+ls
+nvim Cargo.lock
+nvim 
+cargo b
+/home/klownie/gitdownload/crust/examples/class.cpp
+cargo r
+ls
+nvim testy/src/main.rs
+cargo r
+nvim testy/src/main.rs
+mkdir porject-test
+cp /home/klownie/Projects/renewm/pywm-atha/ ./porject-test/
+cp /home/klownie/Projects/renewm/pywm-atha/ ./porject-test/ -r
+ls porject-test/
+nvim porject-test/pywm-atha/src/wm/wm.c
+/home/klownie/gitdnload/crust
+ls /home/klownie/gitdnload/crus
+ls /home/klownie/gitdownload/crust/porject-test/pywm-atha/src/wm/wm.c
+cargo r
+nvim wm_c/src/main.rs
+z Projects/renewm/
+nvim testy/src/main.rs
+rm ..
+z ..
+rm crust/ -r
+nmtui
+doas openvpn OVPN/nl-free-34.protonvpn.net.udp.ovpn
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+z Projects/renewm/
+git commit -m "working on repywm prototype2"
+add .
+git add .
+git commit -m "working on repywm prototype2"
+git push -u origin main
+nvim
+ls
+ls
+ls renewm/
+nvim .gitignore
+git add .gitignore
+git push -u origin main
+z Projects/renewm/
+git rm repywm/target/
+git rm repywm/target/ -r
+git rm renewm/target/ -r
+nvim
+git stash show 
+git stash list 
+git status 
+git push -u origin main
+z Projects/renewm/
+nvim
+nvim .git/config
+git add .
+git commit -m "working on repywm prototype2"
+export GIT_TRACE_PACKET=1
+export GIT_TRACE=1
+export GIT_CURL_VERBOSE = 1
+zsh
+git push -u origin main
+git config --global http.postBuffer 157286400
+git push -u origin main
+bluetuith
+pul
+pulsemixer 
+z Projects/renewm/
+neofetch
+dust
+ls iso/
+neofetch
+z Projects/renewm/
+nvim
+systemctl suspend
+doas dust /
+............................................................................................................,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqfffffffffffffffffffffffffffffffffffffffffeeeeeeeeeeeeeeeeeeeeeeeeeeeweeeeeeeesssssswqeeeeeeeee33eeeeee3qqqqqqqqqqqqqqqqqqqqqqqqqqww2q1111111ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooookkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+k
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ćxddczssszzzsdxdddxdddawsrtfffffffffffffffffttftyyyyyyyyyygtgyyhhhhhhhhhhhhhhttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt787777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777797776766666666666668666666666666666666666655555555555555555555555555555555555555555555555555555555555555555555555555555555555555555775555555555557lllllllllllllllllllllllllllllllllllllllllllllllllllllll
+l
+systemctl suspend
+nvim README.md
+git add .
+git push -u origin main
+git add .
+git commit -m "do not use pls :)"
+git push -u origin main
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+pkill openvpn
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+paru -Syu
+paru openvpn
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+ufw status
+doas ufw status 
+curl ip-api.com/138.199.22.103.
+curl ip-api.com/138.199.22.103
+curl ip-api.com
+openvpn -v
+openvpn --version
+pacman -S base-devel llvm clang cmake openssl python
+paru cmake
+paru base devel
+paru llvm
+paru clang
+pkill electron
+nvim
+rm -r repywm/
+ls
+cd renewm/
+ls
+z ..
+git rm repywm -r
+nvim .gitignore
+nvim renewm/
+ls renewm/
+paru c2rust
+mkdir renewm/src/bin
+mv renewm/src/lib.rs
+mv renewm/src/main.rs renewm/src/lib.rs
+nvim renewm/src/lib.rs
+mkdir renewm/src/repywm
+mkdir renewm/src/renewm
+nvim renewm/src/renewm/mod.rs
+z Projects/renewm/
+nvim LICENSE
+nvim renewm/src/repywm/mod.rs
+cd renewm/
+ls
+cd src/
+ls
+z repywm/
+ls
+nvim mod.rs
+cat mod.rs
+pub mod composite;touch c
+pub mod config;
+pub mod content;
+pub mod cursor;
+pub mod drag;
+pub mod idl_inhibit;
+pub mod keyboard;
+pub mod layout;
+pub mod output;
+pub mod pointer;
+pub mod renderer;
+pub mod seat;
+pub mod server;
+pub mod view;
+pub mod view_layer;
+pub mod view_xdg;
+pub mod view_xwayland;
+pub mod widget;
+ls
+cat mod.rs
+touch composite.rs config.rs content.rs cursor.rs drag.rs idle_inhibit.rs keyboard.rs layout.rs output.rs pointer.rs renderer.rs seat.rs server.rs view.rs view_layer.rs view_xdg.rs view_xwayland.rs widget.rs wm.rs
+ls
+nvim mod.rs
+ls
+z ..
+ls
+z renewm/
+ls
+nvim mod.rs
+ls
+bat mod.rs
+touch animate.rs auth_backend.rs cmd.rs config.rs default_config.rs grid.rs hysteresis.rs interpolation.rs key_processeurs.rs layout.rs panel_launcher.rs run.rs state.rs util.rs view.rs workspace.rs
+ls
+nvim mod.rs
+z ..
+ls
+cd renewm/
+z
+z Projects/renewm/
+z renewm/* .
+z renewm/* ./
+mv renewm/* ./
+ls
+rm -r renewm/
+nvim
+ls
+nvim .gitignore
+git rm renewm -r
+ls
+git add .
+git commit -m "ReOrganizedStuff"
+git push -u origin main
+[package]
+name = "klownie_matrice"
+version = "0.1.3"
+edition = "2021"
+authors = ["Audrick YEU <audrickyeu@proton.me>"]
+description = "My personnel project on matrices"
+license = "GPL-3.0-or-later"
+keywords = ["klownie", "matrices"]
+readme = "README.md"
+repository = "https://github.com/klownie/klownie_matrice_rs"
+homepage = "https://github.com/klownie/klownie_matrice_rs"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+nvim Cargo.toml
+ls
+nvim Cargo.toml
+nvim ~/Documents/rust/klownie_matrice/Cargo.toml
+ls
+nvim src/bin/main.rs
+ls
+git add .
+git commit -m "ReOrganizedStuff"
+git push -u origin main
+ls
+nvim .gitignore
+git add .
+git commit -m "ReOrganizedStuff"
+git push -u origin main
+nvim Documents/EPS/charge_max
+bluetuith
+nmtui
+z Projects/renewm/
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+z Projects/renewm/
+nvim
+nvim
+git add .
+git commit -m "change of plan"
+git push -u origin main
+bluetuith
+nvim
+curl ip-api.com
+speedtest-rs 
+z Projects/renewm/
+nvim
+git add .
+git commit -m "change of plan"
+git push -u origin main
+z
+z
+paru -Syu
+z Projects/renewm/
+nvim .config/newm/config.py
+nvim /bin/start-newm
+nvim /bin/.start-newm
+nvim
+z Projects/renewm/
+z src/bin/
+cargo r
+nvim
+nvim
+z src/bin/
+cargo init 
+cargo init .
+ls
+nvim Cargo.toml
+z ..
+nvim /bin/.start-newm
+nvim Documents/rust/klownie_matrice/Cargo.toml
+nvim
+z src/bin/
+cargo r
+cargo r [[bin]]
+cargo r "[[bin]]"
+cargo r main.rs
+nvim
+battop -d 1
+z
+ls
+sls
+sślslslsl;slsls
+htop
+z
+nmtui
+neofetch
+ls
+neofetch
+systemctl suspend
+z Projects/renewm/
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+z Projects/renewm/
+nvim
+nvim
+paru -Syu
+tty-clock 
+neofetch
+z Projects/renewm/
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+z
+ssh-keygen -t ed25519 -C "audrickyeu@proton.me"
+eval "$(ssh-agent -s)"
+zsh
+ssh-add ~/.ssh/id_ed25519
+doas ssh-add ~/.ssh/id_ed25519 
+nvim .ssh/known_hosts
+nvim .ssh/id_ed25519.pub
+ssh-add ~/.ssh/id_ed25519
+eval "$(ssh-agent -s)"
+ssh-agent -v
+systemctl start ssh-agent
+systemctl statuse ssh-agent
+shiny-mirrors refresh
+doas shiny-mirrors refresh
+ssh-add ~/.ssh/id_ed25519
+z Projects/renewm/
+git commit -m "change of plan2"
+git push -u origin main
+git remote set-url origin git@github.com:klownie/renewm.git
+git commit -m "change of plan2"
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+systemctl suspend
+virsh -c qemu:///system net-start default
+virsh -c qemu:///system start win11
+looking-glass-client 
+pkill electron
+cargo r
+ls
+z src/bin/
+cargo r
+doas chmod klownie:klownie /run/media/klownie/klown-files/sketchbook/*
+doas chown klownie:klownie /run/media/klownie/klown-files/sketchbook/*
+git add .
+git push -u origin main
+git commit -m "change of plan2"
+git push -u origin main
+virsh -c qemu:///system start win11
+looking-glass-client 
+virsh -c qemu:///system start win11
+neofetch
+curl ip-api.com
+looking-glass-client 
+paru -Syu
+git add .
+git commit -m "change of plan2"
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+mkdir assets
+ls
+virsh -c qemu:///system start win11
+looking-glass-client 
+nvim
+git add .
+git commit -m "change of plan2"
+doas chown klownie:klownie /run/media/klownie/klown-files/sketchbook/*
+doas timeshift-gtk
+cp /run/media/klownie/klown-files/sketchbook/sketch_772_1.png Projects/renewm/assets/
+ls Projects/renewm/assets/
+z Projects/renewm/
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+neofetch
+paru -Syu
+paru shotman
+paru spotify
+ncspot 
+nvim README.md
+paru doas
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+nvim .config/newm/config.py
+doas timeshift-gtk
+protonvpn init
+protonvpn-cli init
+protonvpn --version
+protonvpn
+paru -R protonvpn
+paru -R protonvpn-cli
+paru -R protonvpn-gui
+paru protonvpn
+protonvpn-cli init
+protonvpn
+protonvpn 
+paru protonvpn
+protonvpn-cli init
+paru -R protonvpn-gui
+paru -R protonvpn
+paru -R protonvpn-gui
+paru -R protonvpn-cli
+sudo pip3 install protonvpn-cli
+sudo pip3 install protonvpn-cli --upgrade
+protonvpn 
+protonvpn init
+doas protonvpn init 
+protonvpn connect
+doas protonvpn connect
+curl ip-api.com
+speedtest-rs 
+doas protonvpn disconnect
+doas protonvpn c -f
+speedtest-rs 
+curl ip-api.com
+doas protonvpn disconnect
+curl ip-api.com
+doas openvpn OVPN/jp-free-10.protonvpn.net.udp.ovpn
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+doas protonvpn c -f
+speedtest-rs 
+hentaifetch 
+doas timeshift-gtk
+doas protonvpn disconnect
+doas timeshift-gtk
+paru protonvpn
+doas protonvpn c
+sudo pip3 uninstall protonvpn-cli
+paru protonvpn
+protonvpn 
+doas protonvpn
+protonvpn-cli init
+sudo pip3 install proton
+protonvpn-cli init
+sudo pip3 install proton --upgrade
+protonvpn-cli init
+pacman -Qoq /usr/lib/python3.10
+pamac build $(pacman -Qoq /usr/lib/python3.10)
+zsh
+sudo pip3 uninstall proton
+zsh
+protonvpn-cli init
+protonvpn-cli c
+protonvpn-cli 
+protonvpn-cli s
+protonvpn-cli logout
+protonvpn-cli login
+protonvpn-cli login Q5cTlocM61ljwvn4
+protonvpn-cli login Q5cTlocM61ljwvn4 --jelp
+protonvpn-cli login Q5cTlocM61ljwvn4 --help
+protonvpn-cli login Q5cTlocM61ljwvn4 
+protonvpn-cli login Q5cTlocM61ljwvn4
+protonvpn 
+doas protonvpn
+doas protonvpn-cli
+doas protonvpn-cli login Q5cTlocM61ljwvn4
+protonvpn-cli login audrickyeu@proton.me
+curl ip-api.com
+protonvpn-cli c
+protonvpn-cli c -f
+curl ip-api.com
+speedtest-rs 
+protonvpn-cli d
+curl ip-api.com
+systemctl suspend
+protonvpn-cli c
+protonvpn-cli d
+paru -Syu
+nvim Documents/bac_orale
+mv  Documents/bac_orale Documents/bac_orale.md
+z Projects/renewm/
+curl ip-api.com
+gix --help
+ein --help
+ein t
+ein t estimate-hours
+mkdir ~/Documents/rust/install_paru_package
+z 
+z Documents/rust/install_paru_package/
+cargo init
+cargo init .\
+cargo init .
+ls
+paru newm
+paru bottom
+paru zoxide
+paru gitoxide
+paru nushell
+paru gdu
+paru dust
+paru mako
+paru tty clock
+paru doas
+paru bluethuith
+paru blue ui
+paru bluetuith
+paru pulsemixer
+nvim src/main.rs
+chezmoi add src/main.rs
+chezmoi de src/main.rs
+chezmoi --help src/main.rs
+ls
+chezmoi rm Documents/
+chezmoi rm Documents
+rm Documents -r
+ls
+git add .
+git commit -m "upadating for transfer"
+chezmoi cd
+cd ..
+mv install_paru_package/ ~/scripts/

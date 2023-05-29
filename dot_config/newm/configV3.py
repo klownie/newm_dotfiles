@@ -60,6 +60,7 @@ def on_startup():
         #"wlsunset -l 16.0867 -L -93.7561 -t 2500 -T 6000",
         #"mpv --no-video /home/klownie/Documents/Nintendo\ Wii\ Startup\ sound\ download\ \[jnf76C_qYho\].webm",
         "poweralertd -s",
+        "exec ssh-agent nu",
         "xhost +",
     )
     execute_iter(INIT_SERVICE)
@@ -127,7 +128,7 @@ outputs = [
         "scale": 1.0,
         "width": 1920,
         "height": 1080,
-        # "mHz": 0,
+        "mHz": 60002,
         "pos_x": 3840,
         "pos_y": 0,
     },  # 2560/1600 },
@@ -176,7 +177,7 @@ background = {
 
 ## Configure window opening or closing
 
-anim_time = 0.2
+anim_time = 0.1
 blend_time = 0.5
 corner_radius = 0
 
