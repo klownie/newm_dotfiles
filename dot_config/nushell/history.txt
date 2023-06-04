@@ -2357,3 +2357,170 @@ git commit -m "upadating for transfer"
 chezmoi cd
 cd ..
 mv install_paru_package/ ~/scripts/
+chezmoi re-add
+gix add .
+gix index  add all
+gix index add all
+git add .
+git commit -m "upadating for transfer"
+git push -u origin main
+git remote set-url origin git@github.com:klownie/newm_dotfiles.git
+git push -u origin main
+chezmoi cd
+neofetch
+z
+z Projects/renewm/
+ls
+nvim
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+nvim src/doc.rs
+nvim src/lib.rs
+systemctl suspend
+curl ip-api.com
+protonvpn-cli c -f
+speedtest-rs 
+protonvpn-cli d
+curl ip-api.com
+neofetch
+bluetuith
+rxfetch 
+donut.c 
+ls
+cd Documents/
+ls
+dust
+z
+dust
+/usr/share/archcraft/scripts/bonsai
+/usr/share/archcraft/scripts/crunch
+/usr/share/archcraft/scripts/ghosts
+nvim
+ls ~/screenshots/Screenshot.from.2023-05-30.at.09_48_33.302283886.png
+mv ~/screenshots/Screenshot.from.2023-05-30.at.09_48_33.302283886.png ./assets/screenshot_exemple
+z Projects/renewm/
+ls assets/
+mv ./assets/screenshot_exemple ./assets/screenshot_exemple.png
+ls assets/
+nvim README.md
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+nvim README.md
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+nvim README.md
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+nvim README.md
+git add .
+git push -u origin main
+git commit -m "change of plan2"
+git push -u origin main
+nvim README.md
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+openvpn c
+protonvpn-cli c
+protonvpn-cli d
+nvim
+z .config/nvim/lua/user
+ls
+nvim 
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+curl ip-api.com
+systemctl suspend
+paru -Syu
+nvim Documents/bac_orale.md
+nvim .config/newm/config.py
+tty-clock 
+battop -d 1
+nvim Documents/bac_orale.md
+protonvpn-cli status
+protonvpn-cli d
+curl ip-api.com
+speedtest-rs 
+curl ip-api.com
+protonvpn-cli c
+protonvpn-cli d
+z Projects/renewm/
+paru -Syu
+nvim
+protonvpn-cli c
+protonvpn-cli d
+paru -Syu
+protonvpn-cli c
+protonvpn-cli d
+protonvpn-cli c -f
+curl ip-api.com
+protonvpn-cli d
+protonvpn-cli c
+protonvpn-cli d
+protonvpn-cli c
+protonvpn-cli d
+protonvpn-cli c
+curl ip-api.com
+protonvpn-cli d
+protonvpn-cli c
+protonvpn-cli d
+z Projects/renewm/
+virsh -c qemu:///system net-start default
+virsh -c qemu:///system start win11
+looking-glass-client 
+z Projects/renewm/
+git add .
+git commit -m "change of plan2"
+git push -u origin main
+nvim /bin/.start-newm
+git add .
+git commit -m "improved the start-renewm bin"
+git push -u origin main
+nvim
+nmtui
+curl ip-api.com
+protonvpn-cli c
+nmtui
+z Projects/renewm/
+nmtui
+paru -SYu
+paru -Syu
+paru -Syu
+z Projects/renewm/
+paru -R discord
+paru better discord
+paru -R betterdiscord-installer
+paru -Syu
+paru miro
+paru notion
+nvim
+protonvpn-cli c
+protonvpn-cli d
+z Projects/renewm/
+paru manga
+paru youtube
+nvim scripts/install_paru_package/
+nvim scripts/install_paru_package/Cargo.toml
+z scripts/install_paru_package/
+cargo b
+cargo r
+cargo b
+./target/debug/install_paru_package
+cargo b
+cargo b --release
+./target/release/install_paru_package
+nvim 
+nvim ~/Projects/renewm/target/:q
+nvim
+nivm .git/config
+chezmoi cd
+z
+z scripts/install_paru_package/
+mv target/release/install_paru_package ../install_dependencies
+z ..
+chezmoi add install_dependencies
