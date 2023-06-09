@@ -198,11 +198,15 @@ float_app_ids = (
     "landrop",
     "xfce-polkit",
     "polkit",
+    "FLOAT",
+    "Bevy"
 )
 float_titles = (
     "Dialect",
     "kitty_floats",
-    "kitty_floats_nofocus"
+    "kitty_floats_nofocus",
+    "FLOAT"
+    "Bevy"
 )
 
 

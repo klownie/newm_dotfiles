@@ -2524,3 +2524,520 @@ z scripts/install_paru_package/
 mv target/release/install_paru_package ../install_dependencies
 z ..
 chezmoi add install_dependencies
+chezmoi re-add
+git add .
+git commit -m "added a install script"
+git push -u origin main
+chezmoi cd
+z
+z gitdownload/
+git clone git@github.com:Smithay/smithay.git
+git clone https://github.com/Smithay/smithay.git
+ls
+z smithay/
+ls
+z anvil/
+cargo r --tty-udev
+cargo r -- --tty-udev
+cargo r -- --winit
+nvim
+ytfzf 
+nvim
+cargo r -- --winit
+mv src/bin/main.rs src/
+rm src/bin/ -r
+ls
+z src/
+ls
+z ..
+nvim
+ls
+cd src/
+rm -R repywm/
+rm -r repywm/
+ls
+nvim lib.rs
+mv renewm/* .
+ls
+rm -r renewm/
+mv mod.rs lib.rs
+mv mod.rs lib.rs -f
+ls
+nvim lib.rs
+nvim main.rs
+nvim
+z ..
+git add .
+git commit -m "change of plan 3"
+git push -u origin main
+nvim Cargo.toml
+git add .
+git commit -m "change of plan 3"
+nvim 
+nvim
+z Documents/
+nvim .config/nushell/config.nu
+nvim bac_orale.md
+z Projects/renewm/
+git log --pretty=%h»¦«%aN»¦«%s»¦«%aD | lines | split column "»¦«" sha1 committer desc merged_at | histogram committer merger | sort-by merger | reverse
+paru manga-cli
+manga-cli 
+protonvpn-cli c
+protonvpn-cli d
+protonvpn-cli c
+protonvpn-cli d
+protonvpn-cli c -f
+curl ip-api.com
+manga-cli 
+ani-cli
+onefetch
+paru gambit
+gambito 
+gambito -h
+gambito --help-all
+paru -R gambito-git
+paru onefetch
+z Projects/renewm/
+onefetch 
+z ..
+ls
+onefetch 
+z
+nvim scripts/install_paru_package/src/main.rs
+protonvpn-cli d
+curl ip-api.com
+paru artime
+paru arttime
+arttime --nolearn -a colorowl2 -b colorowl3 -t "We don't sleep at night - Owls"
+arttime 
+bash
+paru arttime
+arttime 
+arttime -h
+arttime --nolearn --random all
+protonvpn-cli c -f
+protonvpn-cli d
+systemctl suspend
+curl ip-api.com
+nmtui
+z Documents/rust/
+cargo new les-systemes-de-lindenmayer
+z les-systemes-de-lindenmayer/
+cargo r
+nmtui
+cargo r
+systemctl suspend
+RUST_BACKTRACE=1
+cargo r RUST_BACKTRACE=1
+cargo c RUST_BACKTRACE=1
+cargo c --RUST_BACKTRACE=1
+z Documents/rust/
+z les-systemes-de-lindenmayer/
+tty
+blue
+pip
+neofetch
+cargo r
+systemctl suspend
+cargo r
+RUST_BACKTRACE=1 cargo run
+cargo r
+cargo b
+cargo r
+RUST_BACKTRACE=1 cargo run
+cargo r
+RUST_BACKTRACE=1 cargo run
+cargo r
+nvim
+z ~/Projects/renewm/
+open Cargo.toml
+open Cargo.toml | get package
+protonvpn-cli c -f
+protonvpn-cli d
+z ~/Documents/rust/les-systemes-de-lindenmayer/
+lol
+who
+paru -Syu
+virsh -c qemu:///system net-start default 
+paru -Syu
+paru shotman
+paru volumectl
+tty
+paru tty
+pwd
+paru pronote
+paru alarm
+paru alarm-cli
+paru alarm
+timer -h
+timer 
+timer -t 10
+paru timer rs
+say hi
+notify-send hi
+timer -t 10 && notify-send TIME'S UP
+timer -t 10 ; && notify-send TIME'S UP
+timer -t 10
+timer -t 5
+timer 5
+timer -h
+timer 10 and noti
+timer 10 ; noti
+timer 5 ; notify-send hi
+timer 5 ; notify-send TIME S UP
+paru countdown rs
+z gitdownload/
+git clone https://github.com/zenito9970/countdown-rs.git
+cd countdown-rs/
+cargo install --path .
+cargo r
+paru countdown
+countdown
+count 
+timer 20m ; notify-send TIME S UP
+count paru countdown
+z
+paru countdown
+countdown
+countdown 25s
+paru -R coundown
+paru -R countdown
+paru countdown
+go install github.com/antonmedv/countdown@latest
+countdown
+go uninstall github.com/antonmedv/countdown@latest
+paru countdown
+termdown 
+termdown 3
+termdown -h
+termdown --help
+paru -R termdown
+z gitdownload/
+go main.go
+go help
+go buildmode
+go buildmode main.go
+go install github.com/antonmedv/countdown@latest
+z
+nvim go/bin/countdown
+./go/bin/countdown
+./go/bin/countdown 4
+./go/bin/countdown 4s
+countdown 3s && say "Hello, world"
+countdown 3s ; say "Hello, world"
+./go/bin/countdown 3s ; say "Hello, world"
+./go/bin/countdown -h
+man ./go/bin/countdown 
+paru confetty
+pirate-get murim login
+pirate-get murim
+pirate-get manga
+pirate-get brush
+nvim scripts/install_paru_package/src/main.rs
+z Documents/rust/
+cargo new rust1
+z rust1/
+nvim Cargo.toml
+cargo r
+cargo r --features bevy/waylan
+cargo r --features bevy/wayland
+nvim 
+git clone https://github.com/frederickjjoubert/bevy-ball-game.git
+z ..
+rm rust1/ -r
+git clone https://github.com/frederickjjoubert/bevy-ball-game.git
+z bevy-ball-game/
+nvim 
+z ..
+rm bevy-ball-game/ -r
+git clone https://github.com/frederickjjoubert/bevy-ball-game/tree/Episode-4
+git clone -b Episode-4 https://github.com/frederickjjoubert/bevy-ball-game/tree/Episode-4
+git clone -b Episode-4 https://github.com/frederickjjoubert/bevy-ball-game.git
+z bevy-ball-game/
+cargo r --features bevy/wayland
+cargo r --features bevy/x11
+xlsclients 
+sudo pacman -S libx11 pkgconf alsa-lib
+paru -S vulkan-radeon vulkan-intel mesa-vulkan-drivers
+paru -S vulkan-radeon mesa-vulkan-drivers
+paru -S mesa-vulkan-drivers
+cargo r
+timer 1h 20m ; notify-send TIME S UP
+cargo r
+nvim 
+nvim
+z ~/Documents/rust/les-systemes-de-lindenmayer/
+z ~/Documents/rust/bevy-ball-game
+z ~/Documents/bac_orale.md
+z ~/Documents/rust/klownie_matrice/
+neofetch
+ytfzf 
+nmtui
+ytfzf 
+ani-cli
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+protonvpn-cli c
+curl ip-api.com
+protonvpn-cli d
+z
+paru tui browser
+paru asci browser
+protonvpn-cli c -f
+carbonyl chess.com
+carbonyl https://www.chess.com/
+protonvpn-cli d
+cargo r
+rxfetch 
+cargo b --release
+./target/release/bevy-ball-game
+cargo r
+systemctl suspend
+nvim
+curl ip-api.com
+cargo r
+mkdir assets
+mkdir assets/sprite
+mv ~/Downloads/turtle.png assets/sprite/
+cargo r
+mv assets/sprite/ assets/sprites/
+cargo r
+tty-clock 
+tty-clock 
+newm-rs
+z ~/Documents/rust/bevy-ball-game/
+z ~/Documents/rust/les-systemes-de-lindenmayer
+curl ip-api.com
+protonvpn-cli d
+curl ip-api.com
+cargo r
+nvim src/main.rs
+neofetch
+tty-clock 
+timer 1h 20m ; notify-send TIME S UP
+cava
+cargo r
+curl ip-api.com
+cargo r
+ls
+timer 1h ; notify-send TIME S UP
+cargo r
+nvim
+lg
+cargo r
+git add .
+git commit -m "initial thingy"
+git remote add origin git@github.com:klownie/LesSystem-de-Lindenmayer-dur-Bevy.git
+git push -u origin main
+nvim
+curl ip-api.com
+cargo r
+timer 15m ; notify-send TIME S UP
+git add .
+git commit -m "initial thingy"
+git push -u origin main
+cargo r
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo r
+z ~/Documents/rust/
+z bevy-ball-game/
+nvim src/main.rs
+cargo r
+systemctl suspend
+nvim
+cargo r
+:q
+cargo r
+z Documents/rust/les-systemes-de-lindenmayer/
+cargo r
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+nvim 
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+xrandr
+cargo r
+nvim .config/newm/config.py
+newm-run.sh 
+z Documents/rust/les-systemes-de-lindenmayer/
+cargo r
+nvim .config/newm/config.py
+z Documents/rust/les-systemes-de-lindenmayer/
+cargo r
+cleat
+clear
+cargo r
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+git add .
+git commit -m "initial thingy"
+git push -u origin main
+cargo r
+z Documents/rust/
+cargo new reponse
+z reponse/
+cargo r
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+./target/release/reponse
+timer 10m ; notify-send TIME S UP
+nvim
+z Documents/rust/les-systemes-de-lindenmayer/
+cargo clippy 
+nvim
+cargo clippy 
+:x
+cargo b --release
+./target/release/reponse
+./target/release/les-systemes-de-lindenmayer
+protonvpn-cli c -f
+protonvpn-cli d
+tty-clock 
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+timer 1h ; notify-send TIME S UP
+looking-glass-client 
+virsh -c qemu:///system start win11
+looking-glass-client 
+z Documents/rust/les-systemes-de-lindenmayer/
+nvim
+./target/release/les-systemes-de-lindenmayer
+cargo r 
+timer 1h ; notify-send TIME S UP
+nvim
+timer 30m ; notify-send TIME S UP
+nmtui
+z Documents/rust/les-systemes-de-lindenmayer/
+git branch 3d
+git checkout 3d
+git add .
+git commit -m "initial thingy"
+git push -u origin 3d
+git checkout main
+git pull origin main
+nvim 
+cargo r 
+systemctl suspend
+git push -u origin main
+git add .
+git commit -m "initial thingy"
+git push -u origin main
+git checkout 3d
+git pull origin 3d
+z Documents/rust/les-systemes-de-lindenmayer/
+git pull origin main
+cargo r 
+nvim
+git checkout main
+cargo r 
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo b --release
+./target/release/les-systemes-de-lindenmayer
+cargo r
+nvim
+git checkout 3d
+nvim
+git checkout main
+cargo b
+cargo b --realease
+cargo r
+cargo b --realease
+cargo b --help
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+ys
+systemctl suspends
+systemctl suspend
+./target/release/les-systemes-de-lindenmayer
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+nmtui
+z Documents/rust/les-systemes-de-lindenmayer/
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+paru -Syu
+z Documents/rust/turtle
+z Documents/rust/
+git clone https://git.teilgedanken.de/Rust/turtlers.git
+z turtlers/
+xlsclients 
+doas chown klownie:klownie /run/media/klownie/klown-files/sketchbook/*
+flatpak update
+paru imv
+z scripts/install_paru_package/
+pru unimatrix
+paru unimatrix
+paru cmatric
+paru cmatrix
+z gitdownload/
+git clone https://github.com/maaslalani/gambit<\n>go run ./...
+go run ./gambit/
+./gambit/
+z ..
+z gambit/
+gambit
+paru lobster
+pru lobster
+lobster voice
+lobster voice -i
+paru ueberzug
+lobster voice -i
+ani-cli -i
+paru lobster
+paru musc
+paru muc
+paru muc command
+paru bleach
+paru gparted
+paru muc git
+muc
+nvim
