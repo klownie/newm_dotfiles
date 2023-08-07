@@ -4885,3 +4885,16 @@ git push -u origin main
 nvim dot_config/nushell/env.nu
 exit
 chezmoi cd
+chezmoi add .config/nushell/*
+git add .
+git commit -m "migration time"
+exit
+chezmoi cd
+chezmoi rmove
+chezmoi remove .config/nushell/
+chezmoi help
+chezmoi forget .config/nushell/
+ls dot_config/nushell/env.nu
+ls dot_config/
+exit
+chezmoi cd
