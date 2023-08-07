@@ -4866,3 +4866,15 @@ protonvpn-cli
 sudo find / -name "proton*"
 chezmoi re-add
 chezmoi add Pictures/
+chezmoi add .config/nushell/
+git add .
+git commit -m "migration time"
+git push -u origin main
+nvim .config/nushell/config.nu
+ls dot_config/nushell/env.nu
+nvim dot_config/nushell/env.nu
+exit
+chezmoi cd
+nvim .config/nushell/config.nu
+chezmoi readd
+chezmoi re-add
