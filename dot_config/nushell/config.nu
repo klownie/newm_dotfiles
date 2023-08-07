@@ -544,6 +544,15 @@ use cargo-completions.nu *
 use git-completions.nu *
 use ani-cli-completions.nu *
 
+# alias g = git
+#
+# alias ga = git add
+# alias gaa = 'git add --all'
+# alias gau = git add -u
+# alias gc = git commit -m
+# alias gp = git push
+# alias gitu = git add . ; git commit ; git push
+
 alias q = exit 
 alias bat = bat -P -p 
 alias pirate-get = pirate-get -T -S /home/klownie/watch

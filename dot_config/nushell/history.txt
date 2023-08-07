@@ -3041,3 +3041,1828 @@ paru gparted
 paru muc git
 muc
 nvim
+chezmoi re-add
+chezmoi add src/main.rs
+chezmoi add Cargo.toml
+chezmoi add Cargo.lock
+chezmoi add .git/
+chezmoi add .gitignore
+git add .
+git commit -m "did an update"
+git push -u origin main
+exit
+chezmoi cd
+cargo b -r
+mv ./target/release/install_paru_package ../install_dependencies
+mv ./target/release/install_paru_package ../install_dependencies -f
+chezmoi re-add
+z gitdownload/
+z gambit/
+curl ip-api.com
+ssh [klownie@]115.77.185.35 -p 53531 -t 1 [playgame]
+go run ./... server
+go install github.com/maaslalani/gambit@latest
+z
+./go/bin/gambit
+./go/bin/gambit -h
+ssh [<name>@]<host> -p <port> -t <room> [<password>]
+zsh
+ssh 115.77.185.35 -p 53531
+shh 115.77.185.35 -p 53531
+ssh 115.77.185.35 -p 53531
+ssh 115.77.185.35 -p 53531 -t 1
+ssh 115.77.185.35 -p 53531 -t 1 salegosse
+who
+ssh 115.77.185.35 -p 53531 -t 1 salegosse
+ssh 115.77.185.35 -p 53531
+ssh 115.77.185.35 -p 53531 -t gambit
+ssh gambit -p 53531 -t gambit
+ssh gambit -p 53531 -t 
+ssh gambit -p 53531
+ssh klownie@115.77.185.35 -p 53531
+ssh root@115.77.185.35 -p 53531
+doas ssh root@115.77.185.35 -p 53531
+doas systemctl status ssh
+curl ifconfig.me
+ifconfig
+ssh klownie@115.77.185.35 -p 53531 -t 1
+./go/bin/gambit server
+ssh klownie@115.77.185.35 -p 53531 
+ssh py@115.77.185.35 -p 53531 
+ssh klownie@localhost -p 53531 -t 1
+ssh py@115.77.185.35 -p 53531 -t 1
+ssh klownie@115.77.185.35 -p 53531 -t 1
+ssh klownie@localhost -p 53531 -t 1
+ssh yo@localhost -p 53531 -t 1
+curl ifconfig.me
+ssh klownie@115.77.185.35 -p 53531 -t 1
+ip addr
+ssh klownie@192.168.1.111 -p 53531 -t 1
+adr ip
+ip addr
+sudo ufw status
+ssh klownie@192.168.1.111 -p 53531 -t 1
+timeshift
+timeshift --list
+doas timeshift --list 
+doas timeshift 
+z scripts/install_paru_package/
+./go/bin/gambit server
+nvim
+nvim
+nvim
+tty-clock 
+timer 1h ; notify-send TIME S UP
+protonvpn-cli c -f
+protonvpn-cli d
+z Projects/
+git clone git@github.com:klownie/Burtle.git
+ls
+nvim  Burtle/
+z Burtle/
+cargo init .
+ls
+nvim .gitignore
+git add .
+git commit -m "initial thing"
+git push -u origin main
+z Documents/rust/les-systemes-de-lindenmayer/
+timer 1h ; notify-send TIME S UP
+z gitdownload/
+z ../Documents/rust/
+z turtlers/
+neofetch
+nvim src/main.rs
+mv src/main.rs src/lib.rs
+git add .
+git commit -m "initial thing"
+git push -u origin main
+z Projects/
+cargo new tester
+z tester/
+git add .
+git commit -m "initial thing"
+git push -u origin main
+timer 1h ; notify-send TIME S UP
+cargo c
+cp assets/ ../../../Projects/Burtle/
+cp assets/ ../../../Projects/Burtle/ -r
+git add .
+git commit -m "initial thing"
+git push -u origin main
+git add .
+git commit -m "prototype"
+git push -u origin main
+nvim 
+curl ifconfig.me
+curl ip-api.com
+onefetch 
+git add .
+git commit -m "prototype"
+git push -u origin main
+git add
+git add .
+git commit -m "prototype"
+git push -u origin main
+nvim
+cargo b
+cargo update
+cargo r
+nvim
+cargo r
+cargo clean 
+cargo update
+cargo clean 
+cargo r
+systemctl suspend
+z Projects/
+z Burtle/
+git add .
+git commit -m "prototype"
+git push -u origin main
+z Projects/tester/
+cargo clean
+nvim
+cargo clean
+cargo update
+neofetch
+cargo r
+nvim
+cargo clean
+cargo update
+cargo r
+git add .
+git commit -m "prototype"
+git push -u origin main
+nvim
+cargo clean
+cargo update 
+cargo-miri 
+cargo r
+z Documents/rust/
+z sandbox/rust_sandbox/
+cargo bench 
+nvim
+z
+pru glow
+paru glow
+neofetch
+glow
+glow -h
+glow 
+aichat 
+nvim .config/aichat/config.yaml
+nvim .config/aichat/roles.yaml
+nvim .config/aichat/config.yaml
+aichat --h
+aichat --help
+aichat -r edge-lord
+z Documents/
+cargo new pow
+z pow/
+nvim src/main.rs
+z
+z Projects/
+z Burtle/
+nvim 
+xsetwacom --list devices
+wacom-utility --list
+paru wacom-utility
+paru cpython2
+paru cpython 
+# libinput debug-tablet
+doas libinput debug-tablet
+nvim
+paru wacom
+wacom-utility --list
+paru -R wacom-utility-git
+paru wacom
+paru wacom
+paru mapwacom
+paru wacom map
+paru tablet map
+lsusb | grep -i wacom
+lsusb | grep -i wacom
+lsusb
+rustup update
+nvim
+cargo clean
+cargo update 
+z Projects/tester/
+git add .
+git commit -m "prototype"
+git push -u origin main
+cargo test
+pwd
+nvim
+cargo clean
+cargo update
+cargo r
+git push -u origin main
+cargo r
+z Documents/rust/les-systemes-de-lindenmayer
+doas libinput debug-tablet
+cargo r
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+./target/release/tester
+cargo b -r
+./target/release/tester
+nvim
+nvim
+git add .
+git push -u origin main
+git commit -m "works"
+git push -u origin main
+git add .
+git commit -m "works"
+git push -u origin main
+nvim
+z ~/Documents/rust/les-systemes-de-lindenmayer
+git add .
+git commit -m "works"
+git push -u origin main
+git push -u origin main --force
+lobster -i spiderman
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+:x
+nvim
+cargo clean
+cargo update
+who
+git pull origin main
+systemctl suspend
+nvim
+paru -Syu
+protonvpn-cli c -f
+curl ip-api.com
+protonvpn-cli c -f
+protonvpn-cli c 
+protonvpn-cli c -f
+protonvpn-cli c 
+protonvpn-cli c -f
+doas echo hello
+protonvpn 
+paru -Syu
+curl ip-api.com
+nmtui
+protonvpn-cli status
+protonvpn-cli d
+curl ip-api.com
+protonvpn-cli c 
+curl ip-api.com
+protonvpn-cli d
+protonvpn-cli c -f
+protonvpn-cli d
+bluetuith 
+z ~/Projects/tester/
+nvim
+cargo r
+z Projects/Burtle/
+cargo clean
+cargo update
+cargo r
+git add .
+git commit -m "made some functions more conventional"
+git add .
+git commit -m "added little fix to readme"
+git push -u origin main
+z Documents/rust/les-systemes-de-lindenmayer/
+git remote add origin git@github.com:klownie/Burtle-System-de-Lindenmayer.git
+git remote -v
+git remote set-url origin git@github.com:klownie/Burtle-System-de-Lindenmayer.git
+git push -u origin main
+git push -u origin main --force
+nvim 
+..
+mv les-systemes-de-lindenmayer/ ~/Projects/
+z
+z Projects/Burtle/
+ls
+z ..
+z les-systemes-de-lindenmayer/
+cargo clean
+cargo update
+nvim Cargo.toml
+git add .
+git commit -m "small tweak"
+git push -u origin main 
+cargo r
+git add .
+git commit -m "small tweak"
+git push -u origin main 
+nvim
+cargo clean
+cargo update
+cargo r
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+./target/release/les-systemes-de-lindenmayer
+bluetuith 
+cargo r
+nvim
+nvim
+nvim 
+z Projects/Burtle/
+z Projects/les-systemes-de-lindenmayer/
+z Projects/tester/
+cargo r
+z Projects/tester/
+cargo r
+git add .
+git commit -m "added burtle.wait(u32)"
+nvim
+nvim
+nvim
+systemctl suspend
+z Projects/tester/
+z Projects/Burtle/:w
+z Projects/Burtle/
+nvim
+cargo r
+protonvpn-cli c -f
+paru -Syu
+paru nomacs
+cargo clean
+cargo update
+nvim
+cargo clean
+cargo update
+nvim
+cargo r
+protonvpn-cli d
+paru -Syu
+timer 5m ; notify-send TIME S UP
+systemctl suspend
+timer 5m ; notify-send TIME S UP
+cargo r
+tty-clock 
+timer 5m ; notify-send TIME S UP
+paru krita
+krita 
+paru -R krita
+flatpak install flathub org.kde.krita
+flatpak run flathub org.kde.krita
+flatpak run org.kde.krita
+flatpak uninstall flathub org.kde.krita
+protonvpn-cli c -f
+protonvpn-cli d
+newm-run.sh 
+libinput 
+libinput  -l
+libinput  debug-evwnts
+libinput  debug-evnts
+libinput  debug-events
+doas libinput debug-tablet
+mv gitdownload/smithay/ Projects/
+z Projects/smithay/
+cargo r
+z anvil/
+nvim
+z anvil/
+xlsclients 
+cargo r -- --winit
+protonvpn-cli c -f
+protonvpn-cli d
+glow
+timer 5m ; notify-send TIME S UP
+neofetch
+systemctl suspend
+timer 5m ; notify-send TIME S UP
+unimatrix 
+dust
+timer 21m ; notify-send TIME S UP
+timer 13m ; notify-send TIME S UP
+timer 4m ; notify-send TIME S UP
+z Documents/bqn/
+battop -d 1
+protonvpn-cli c -f
+virsh -c qemu:///system start win11
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+protonvpn-cli d
+looking-glass-client 
+loo
+paru looking glass
+looking-glass-client 
+curl ip-api.com
+pipes-rs 
+looking-glass-client 
+paru mincraft
+paru minecraft
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+virsh -c qemu:///system start win11
+looking-glass-client 
+curl ip-api.com
+virsh -c qemu:///system start win11
+looking-glass-client 
+virsh -c qemu:///system start win11
+loo
+looking-glass-client 
+virsh -c qemu:///system start win11
+looking-glass-client 
+systemctl suspend
+paru -Syu
+virsh -c qemu:///system start win11
+looking-glass-client 
+curl ip-api.com
+systemctl suspend
+virsh -c qemu:///system start win11
+dust
+looking-glass-client 
+protonvpn-cli c -f
+curl ip-api.com
+protonvpn-cli d
+virsh -c qemu:///system start win11
+looking-glass-client 
+systemctl suspend
+nmtui
+cd Projects/
+z 
+z Documents/
+python Documents/puissance_4.py
+systemctl suspend
+nvim puissance_4.py
+z Projects/Burtle/
+nvim
+z 
+z Projects/tester/
+cargo r
+:q
+nvim
+cargo clean
+cargo update
+cargo r
+z Projects/tester/
+nvim
+z Projects/les-systemes-de-lindenmayer
+z ..
+z Burtle/
+nvim
+cargo r
+cargo r
+nvim
+cargo r
+z ..
+cargo new Chiffrement-de-Hill
+z Chiffrement-de-Hill/
+cargo r
+nmtui
+z Documents/rust/klownie_matrice/
+pwd
+nvim
+cargo clean
+cargo update
+cargo r
+z Projects/Chiffrement-de-Hill
+nvim
+z ..
+z Burtle/
+z Projects/tester/
+nvim
+cargo clean
+cargo update
+cargo r
+virsh -c qemu:///system start win11
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+z Documents/rust/sandbox/rust_sandbox/
+pirate-get spiderman
+pirate-get spiderman into
+cargo r
+systemctl suspend
+virsh -c qemu:///system start win11
+nvim
+nvim
+nvim
+nvim
+paru -Syu
+daos bleachbit
+doas bleachbit
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+bluetuith 
+systemctl suspend
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+speedtest-rs 
+nmtui
+looking-glass-client 
+mv Documents/rust/klownie_matrice/ Projects/
+z Projects/klownie_matrice/
+cp src/lib.rs src/lib.rs.old
+systemctl suspend
+z Projects/les-systemes-de-lindenmayer/
+z Documents/rust/sandbox/rust_sandbox/
+cargo -r
+cargo r
+nmtui
+z Projects/klownie_matrice/
+nvim 
+nvim
+newm-run.sh 
+z Projects/klownie_matrice/
+z Projects/tester/
+z Projects/les-systemes-de-lindenmayer
+z Projects/Burtle/
+git add .
+git push -u origin main 
+git commit -m "added lindenmayer methods"
+git push -u origin main 
+z Projects/renewm/
+nvim
+z ../smithay/anvil/
+nvim 
+cargo clear
+cargo clean
+cargo update
+git add .
+git commit -m "added lindenmayer methods as a feature"
+git push -u origin main 
+nvim
+cargo clean
+cargo update
+cargo r --features lindenmayer
+cargo r --features burtle/lindenmayer
+nvim
+git add.
+git add .
+nvim ~/.config/nushell/scripts/git-completions.nu
+nvim ~/.config/nushell/config.nu
+z Projects/Burtle/
+git add .
+git commit -m "added lindenmayer methods as a feature"
+git push -u origin main 
+nvim
+cargo clean
+cargo update
+git push -u origin main
+cargo r --features burtle/lindenmayer
+cargo b -r
+./target/release/les-systemes-de-lindenmayer
+git add .
+git commit -m "changed the import and added [ and ]"
+git push -u origin main
+pwd
+nvim
+nvim
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+protonvpn-cli c -f
+curl ip-api.com
+protonvpn-cli d
+protonvpn-cli c -f
+curl ip-api.com
+curl ip-api.co
+protonvpn-cli d
+protonvpn-cli c -f
+protonvpn-cli d
+protonvpn-cli c
+protonvpn-cli d
+z Projects/
+cargo new tester2
+z tester2/
+cargo r
+virsh -c qemu:///system start win11
+looking-glass-client 
+looking-glass-client 
+nvim
+nvim 
+nvim
+nvim
+systemctl suspend
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+virsh -c qemu:///system start win11
+looking-glass-client 
+systemctl suspend
+virsh -c qemu:///system start win11
+looking-glass-client 
+virsh -c qemu:///system start win11
+looking-glass-client 
+virsh -c qemu:///system start win11
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+z Projects/klownie_matrice/
+spicetify restore backup apply
+z Projects/tester/
+cargo clean
+cargo update
+cargo r
+z Projects/renewm/
+touch test.rs
+rm test.rs
+touch src/tests.rs
+nvim
+z Projects/tester/
+nvim
+cargo test 
+nvim 
+cargo test 
+nvim
+cargo test 
+RUST_BACKTRACE=1 cargo test
+cargo test 
+z Projects/tester/
+cargo test 
+cargo r
+cargo test 
+z .config/nvim/lua/user/
+nvim
+touch src/matrix.rs
+touch src/matrice_logique.rs
+rm src/matrix.rs
+touch src/matrice.rs
+z Projects/smithay
+cargo test 
+virsh -c qemu:///system start win11
+looking-glass-client 
+paru crossover
+lobster the boys
+lobster the boys season 1
+lobster the boys S 1 ep 1
+paru popcorn
+popcorntime -h
+popcorntime --help
+exit
+pirate-get the boys
+protonvpn-cli c -f
+nvim
+curl ip-api.co
+curl ip-api.com
+protonvpn-cli d
+curl ip-api.com
+pirate-get the boys
+rtorrent
+deluge
+nvim
+systemctl suspend
+tty-clock 
+cargo new tester3
+ls
+rm -R tester3/
+rm -r tester3/
+z Projects/
+cargo new tester3
+ls
+cd tester3/
+nvim
+neofetch
+btm
+paru bottm
+paru bottom
+virsh -c qemu:///system start win11
+looking-glass-client 
+z Projects/
+cargo new fast_invsqrt_klownie
+z fast_invsqrt_klownie/
+mv src/main.rs src/lib.rs
+nvim
+z ..
+rm fast_invsqrt_klownie/ -r
+cargo new inv_sqrt
+z inv_sqrt/
+cargo r
+nvim
+virsh -c qemu:///system start win11
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+nvim
+virsh -c qemu:///system start win11
+looking-glass-client 
+z Projects/
+ls
+cargo new puissance_4
+z puissance_4/
+z Projects/klownie_matrice/
+z Projects/
+ls
+z tester/
+nvim
+z ../tester2/
+z Projects/inv_sqrt/
+z Projects/puissance_4/
+timer 1m ; notify-send TIME S UP
+timer 1m -s ; notify-send TIME S UP
+cava
+systemctl suspend
+doas create_ap wlan0 eth0 klo 123456789
+paru linux hotspot
+doas create_ap wlan0 eth0 klo 123456789
+nmyui
+nmtui
+lsof +r -i
+sudo netstat -altupn
+protonvpn-cli c -f
+curl ip-api.com
+speedtest-rs 
+protonvpn-cli d
+doas create_ap wlan0 enp2s0 klo 123456789
+protonvpn-cli c
+curl ip-api.com
+doas create_ap wlan0 enp2s0 -h
+doas create_ap --stop wlan0 
+la Downloads/
+ls Downloads/
+cava
+hentaifetch
+lobster spider man across
+protonvpn-cli c -f
+protonvpn-cli d
+paru lobster
+lobster -h
+cava
+doas create_ap wlan0 enp2s0 123456789
+curl ip-api.com
+doas create_ap wlan0 enp2s0 123456789
+tty-clock 
+doas create_ap wlan0 enp2s0 123456789
+z Projects/tester2/
+nvim
+z ..
+z tester3/
+nvim
+cargo r
+nmtui
+curl
+curl ip-api.com
+protonvpn-cli d
+doas create_ap --stop wlan0 
+neofetch
+nmtui
+doas create_ap --start wlan0 
+z Projects/tester3
+nmtui
+doas create_ap --help
+lspci -k
+ip link
+doas ip link set wlan0 up
+nmtui
+ip link
+doas ip link set wlan0 up
+doas ip link
+doas dmesg | greb firmware
+doas dmesg | grep firmware
+doas ip link
+doas ip link set wlan0 up
+doas ip link
+nmtui
+lspci -k
+lspci -k | grep "net"
+doas ip link
+doas dmesg | grep firmware
+doas dmesg | grep iwlwifi
+doas dmesg | grep wlan0
+doas dmesg | grep wlan
+doas dmesg | grep wla
+doas dmesg | grep wl
+iw dev wlan0 link
+lobaster the boys
+lobster the boys
+bluetuith 
+lobster the boys
+systemctl suspend
+ paru -Syu
+lobster the boys
+neofetch
+lobster the boys
+z Projects/klownie_matrice/
+nmtui
+doas dmesg | grep wlan0
+doas ip link set wlan0 up
+doas ip link
+doas ip link set enp2s0 up
+doas ip link
+doas create_ap --help
+doas create_ap --start wlan0 
+doas create_ap --run wlan0 
+doas ip link set enp2s0 up
+lspci -k
+lspci -k | grep "net"
+lspci -k | grep "w"
+rfkill
+doas ip link set phy0 up
+doas ip link
+nmtui
+doas nmtui
+doas ip link set wlan up
+doas ip link set wlan0 up
+doas nmtui
+doas ip link
+doas dmesg | grep firware
+doas dmesg | grep firmware
+lspci -k | grep "w"
+lspci -k | grep w
+doas dmesg | grep rtw88_8822ce
+doas dmesg | grep usbcore
+sysmtctl list-units
+systemctl list-units
+doas ip link
+doas ip link set br-cbcfcf9937ef down
+doas ip link
+doas ip link set * down
+doas ip link set br-e2a553929397 down
+doas ip link set veth8f72245@if7 down
+doas ip link
+doas ip link set wlan0 down
+doas ip link
+nmtui
+doas ip link set wlan0 up
+doas ip link
+lobster the boys
+paru -Syu
+neofetch
+ls
+bluetuith 
+ paru -Syu
+lobster the boys
+newm-run.sh 
+z Projects/klownie_matrice/
+nvim
+cargo test
+z Projects/tester/
+cargo clean
+cargo update
+cargo r
+cargo test
+z Projects/inv_sqrt/
+cargo c
+timer
+cargo test
+cargo clean
+cargo update
+timer --help
+cargo r
+nvim
+tty-clock 
+cargo r
+cargo test
+cargo update
+cargo clean
+cargo update
+nvim
+cargo update
+cargo r
+pwd
+/home/klownie/Projects/klownie_matriceq
+cargo update
+cargo r
+cargo test
+cargo clean
+cargo update
+cargo r
+cargo update
+cargo r
+cargo update
+lobster the boys
+cargo r
+cargo test
+lobster the boys
+cargo r
+cargo update
+cargo r
+cargo r
+cargo test\
+cargo test
+nvim
+z ../tester3/
+lobster the boys
+nvim
+nvim
+protonvpn-cli c -f
+protonvpn-cli d
+protonvpn-cli c
+protonvpn-cli d
+z Projects/klownie_matrice/
+nvim
+nvim ~/.config/kitty/kitty.conf
+neofetch
+nvim 
+z Projects/klownie_matrice/
+cargo test
+:w
+cargo test
+nvim
+z Projects/tester2/
+nvim
+z ../tester/
+cargo r
+cargo update
+cargo r
+nvim
+cargo test
+nvim
+cargo test
+systemctl suspend
+cargo test
+nvim
+poweroff
+tty-clock 
+nvim .config/kitty/kitty.conf
+z Projects/klownie_matrice/
+cargo test
+nvim
+protonvpn-cli c -f
+curl ip-api.com
+speedtest-rs 
+curl ip-api.com
+doas create_ap wlan0 enp2s0 123456789 salegosse
+protonvpn-cli d
+z Projects/klownie_matrice/
+nvim
+cargo test
+z Projects/tester/
+cargo test
+cargo r
+cargo update
+cargo r
+nvim
+doas shiny-mirrors refresh
+doas shiny-mirrors
+cava
+nmtui
+protonvpn-cli doweroff
+neofetch
+btm
+paru -Syu
+z Projects/klownie_matrice/
+cargo r
+z Projects/tester/
+cargo r
+nvim
+nvim
+systemctl suspend
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+neofetch
+looking-glass-client 
+nvim
+nvim Documents/python/matrix.py
+nvim
+z Projects/klownie_matrice/
+z Projects/tester/
+cargo r
+cargo update
+cargo r
+ani-cli rimuru
+ani-cli tensei
+ani-cli chainsaw
+protonvpn-cli c -f
+ani-cli tensei
+ani-cli chainsaw
+protonvpn-cli d
+nvim
+nvim
+virsh -c qemu:///system start win11
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+poweodd
+poweroff
+z Projects/klownie_matrice/
+z Projects/tester/
+cargo r
+nvim
+protonvpn-cli c -f
+cargo r
+nvim
+systemctl suspend
+protonvpn-cli d
+z Projects/klownie_matrice/
+z Projects/tester/
+nvim
+nvim
+z Projects/klownie_matrice/
+nvim
+systemctl suspend
+z Projects/klownie_matrice/
+z Projects/tester/\
+z Projects/tester/
+cargo r
+systemctl suspend
+nvim
+nvim 
+z Projects/klownie_matrice/
+z Projects/tester/
+nvim
+nvim
+z Projects/klownie_matrice/
+nvim
+curl ip-api.com
+nmtui
+curl ip-api.com
+btm
+systemctl suspend
+curl ip-api.com
+nmtui
+curl ip-api.com
+protonvpn-cli d
+nmtui
+doas iwconfig
+paru -Q Bro
+paru -Qq
+paru -Qq | greb bro
+paru -Qq |greb bro
+paru -Qq |grep bro
+modprobe wl
+paru boadcome
+nmtui
+curl ip-api.com
+doas timeshift 
+newm-run.sh 
+neofetch
+z
+nvim
+curl ip-api.com
+doas shiny-mirrors
+curl ip-api.com
+speedtest-rs 
+doas shiny-mirrors
+tty-clock 
+paru -Syu
+paru -R electron20
+paru -Syu
+neofecth
+paru neofetch
+neofetch
+ls
+neofetch
+ls .mozilla/firefox/3v2v5j4x.default-release-1/
+ls .mozilla/firefox/3v2v5j4x.default-release-1/addonStartup.json.lz4
+bat .mozilla/firefox/profiles.ini
+ls .mozilla/firefox/3v2v5j4x.default-release-1/addonStartup.json.lz4
+ls .mozilla/firefox/
+ls -la .mozilla/firefox/
+rm -r .mozilla/firefox/3v2v5j4x.default-release-1/
+nvim .mozilla/firefox/profiles.ini
+doas hwclock --show
+doas hwclock --systohc
+tty-clock 
+doas hwclock --show
+timedatectl | grep local
+doas timedatectl set-local-rtc 1
+timedatectl | grep local
+timedatectl
+doas timedatectl set-local-rtc 0
+timedatectl
+timedatectl | grep local
+doas timedatectl set-timezone Europe/Paris
+speedtest-rs 
+neofetch
+paru speedteset
+paru speedtest
+speedtest-cli
+curl ip-api.com
+fetchfetch 
+onefetch 
+paru onefetch
+z Projects/klownie_matrice/
+onefetch 
+spicetify restore backup apply
+gloom
+paru glow
+glow
+z Projects/klownie_matrice/
+protonvpn-cli c -f
+paru protonvpn
+paru -R protonvpn<\n>paru -R protonvpn-gui<\n>paru -R protonvpn-cli<\n>paru -S protonvpn
+paru -R protonvpn-gui<\n>paru -R protonvpn-cli<\n>paru -S protonvp
+protonvpn-gui<\n>paru -R protonvpn-cli<\n>paru -S protonvp
+paru protonvpn
+paru -R python-protonvpn-nm-lib
+paru protonvpn
+rm /usr/lib/python3.11/site-packages/protonvpn_cli/ -r
+doas rm /usr/lib/python3.11/site-packages/protonvpn_cli/ -r
+paru protonvpn
+protonvpn-cli c -f
+protonvpn-cli init
+protonvpn-cli 
+protonvpn-cli
+protonvpn-cli login audrickyeu@proton.me
+paru -R protonvpn-gui<\n>paru -R protonvpn-cli<\n>paru -S protonvp
+paru -R protonvpn-cli
+paru protonvpn
+doas rm /usr/bin/protonvpn
+paru protonvpn
+protonvpn-cli c -f
+protonvpn
+pamac build $(pacman -Qoq /usr/lib/python3.10)
+zsh
+protonvpn
+protonvpn-cli c -f
+protonvpn-cli login audrickyeu@proton.me
+protonvpn
+pacman -Qoq /usr/lib/python3.10/
+pacman -Qoq /usr/lib/python3.10
+paru -R protonvpn
+paru -Rs protonvpn
+paru protonvpn
+protonvpn-cli login audrickyeu@proton.me
+protonvpn-cli --help
+paru -Syu
+protonvpn-cli --help
+protonvpn-cli config
+glow
+z Documents/
+nvim adresse.md
+glow
+doas chmod klownie:klownie /run/media/klownie/klown-files/stach/DSC_2697.jpg
+doas chown klownie:klownie /run/media/klownie/klown-files/stach/DSC_2697.jpg
+systemctl suspend
+glow
+flatpak install flathub io.missioncenter.MissionCenter
+lobster chernobyl
+paru lobster
+lobster chernobyl
+protonvpn-cli login audrickyeu@proton.me
+flatpak run io.missioncenter.MissionCenter
+doas flatpak run io.missioncenter.MissionCenter 
+flatpak run io.missioncenter.MissionCenter
+flatpak install flathub com.github.tchx84.Flatseal
+fzf-run 
+protonvpn-cli login audrickyeu@proton.me
+rm -r .config/protonvpn/
+protonvpn-cli login audrickyeu@proton.me
+paru -Rcsn protonvpn protonvpn-cli protonvpn-gui
+paru -Rcsn protonvpn-cli
+paru protonvpn
+protonvpn-cli login audrickyeu@proton.me
+protonvpn-cli
+sudo pip install protonvpn-cli
+paru -R protonvpn-cli
+doas pacman python-protonvpn-cli
+doas pacman -S python-protonvpn-cli
+sudo pip install protonvpn-cli
+paru pip
+sudo pip install protonvpn-cli
+sudo pip install protonvpn
+paru protonvpn
+protonvpn-cli
+protonvpn-cli fix
+paru protonvpn
+paru -S --rebuild python-protonvpn-nm-lib python-proton-client protonvpn-cli
+protonvpn-cli
+paru -Rcsn protonvpn-cli
+protonvpn-cli
+paru protonvpn
+protonvpn-cli init
+protonvpn-cli --init
+protonvpn configure 
+protonvpn-cli configure 
+paru -Rcsn protonvpn-cli
+paru protonvpn
+protonvpn configure 
+doas protonvpn configure 
+protonvpn-cli configure 
+protonvpn-cli
+protonvpn-cli --version
+paru -Rcsn protonvpn
+rm -r .cache/paru/*
+doas rm -r .cache/paru/* 
+paru protonvpn
+protonvpn-cli --version
+protonvpn-cli 
+ls /usr/lib/python3.10/site-packages/
+ls /usr/lib/python3.10/
+mkdir .cache/protonvpn
+protonvpn-cli 
+z .cache/paru/clone/protonvpn-cli/
+ls
+paru -Syu
+protonvpn-cli 
+paru -S python-pythondialog
+protonvpn-cli 
+paru --rebuild protonvpn
+paru --rebuild -S protonvpn
+protonvpn-cli 
+nvim /sbin/protonvpn-cli
+protonvpn-cli 
+pip install protonvpn-cli
+doas nvim /sbin/protonvpn-cli
+paru -Rcsn protonvpn
+paru pipx
+pipx install protonvpn-cli
+pipx ensurepath
+pipx install protonvpn-cli
+pipx uninstall protonvpn-cli
+pipx install protonvpn-cli
+pipx ensurepath
+protonvpn-cli 
+protonvpn
+pipx ensurepath
+.local/bin/protonvpn
+.local/bin/protonvpn init
+doas .local/bin/protonvpn init 
+.local/bin/protonvpn
+.local/bin/protonvpn c
+doas .local/bin/protonvpn c 
+doas .local/bin/protonvpn c -f
+nvim init
+doas .local/bin/protonvpn init 
+doas .local/bin/protonvpn c -f
+curl ip-api.com
+speedtest-cli
+doas speedtest-cli
+doas speedtest-rs
+lobster chernobyl
+doas .local/bin/protonvpn d
+doas .local/bin/protonvpn c
+lobster chernobyl
+doas .local/bin/protonvpn c -f
+lobster the boys
+paru lobster
+paru -R lobster
+paru lobster
+curl ip-api.com
+paru science.org
+paru science
+paru science bypass
+paru paper panda
+flatpak run com.github.micahflee.torbrowser-launcher
+curl ip-api.com
+doas .local/bin/protonvpn d
+doas .local/bin/protonvpn c
+curl ip-api.com
+doas .local/bin/protonvpn d
+doas .local/bin/protonvpn c
+curl ip-api.com
+doas .local/bin/protonvpn d
+glow
+nmtui
+curl ip-api.com
+speedtest-cli
+speedtest-rs
+paru capt-src
+nvim /etc/pacman.conf
+doas nvim /etc/pacman.conf
+paru capt-src
+doas nvim /etc/pacman.conf
+paru -Syu
+paru capt-src
+ccpdadmin -p  -o /dev/usb/lp0
+doas ccpdadmin -p TR4650 -o /dev/usb/lp0
+doas ccpdadmin -p TR4650 -o /dev/usb/lp1
+lpinfo -m
+systemctl start ccpd.service
+systemctl status ccpd.service
+lsusb -l
+lsusb 
+doas ccpdadmin -p TR4600 -o /dev/usb/lp1
+doas ccpdadmin -p TR4600 -o /dev/usb/lp0
+captstatusui -P LBP6310
+doas ccpdadmin -P TR4600 -o /dev/usb/lp0
+doas ccpdadmin -P TR4650 -o /dev/usb/lp0
+lsusb 
+paru canon driver
+doas ccpdadmin -p LBP6310 -o /dev/usb/lp0
+lsusb 
+protonvpn-cli 
+paru protonvpn-cli
+protonvpn-cli 
+neofetch
+protonvpn-cli c -f
+paru proton
+paru proton cli
+ping api.protonmail.ch
+protonvpn-cli c -f
+paru -Rs protonvpn-cli
+paru -S protonvpn-cli
+protonvpn-cli c -f
+paru -Rns protonvpn-cli
+paru protonvpn
+protonvpn-cli c -f
+protonvpn 
+protonvpn c
+doas protonvpn c
+doas protonvpn init
+protonvpn c
+doas protonvpn c
+doas protonvpn c -f
+curl ip-api.com
+doas protonvpn c -h
+speedtest-rs
+doas protonvpn d
+doas protonvpn c --tor
+curl ip-api.com
+doas protonvpn d
+doas protonvpn --tor
+doas protonvpn c -f -p --tor
+doas protonvpn c -f --tor
+doas protonvpn c --tor
+curl ip-api.com
+doas protonvpn d
+doas protonvpn c --tor
+hentaifetch
+doas protonvpn d
+hentaifetch
+doas protonvpn c --tor
+hentaifetch
+curl ip-api.com
+doas protonvpn d
+doas protonvpn c --tor
+curl ip-api.com
+doas protonvpn d
+doas protonvpn c
+curl ip-api.com
+doas protonvpn d
+doas protonvpn c
+curl ip-api.com
+doas protonvpn c --
+doas protonvpn c -h
+doas protonvpn c --p2p
+curl ip-api.com
+doas protonvpn d
+paru vimb
+rm -r .cache/vimb/
+vimb
+doas pacman -S firefox-tridactyl
+curl -sS --create-dirs -o "${XDG_CONFIG_HOME:-$HOME/.config}/tridactyl/themes/everforest.css" "https://git.sr.ht/~nasmevka/everforest-tridactyl/blob/main/everforest.css"
+z .config/
+mkdir tridactyl
+mkdir tridactyl/themes
+curl -sS --create-dirs -o "${XDG_CONFIG_HOME:-$HOME/.config}/tridactyl/themes/everforest.css" "https://git.sr.ht/~nasmevka/everforest-tridactyl/blob/main/everforest.css"
+la
+ls
+nvim tridactyl/themes/
+nvim .mozilla/firefox/profiles.ini
+bluetuith 
+nvim .mozilla/firefox/35oabkhp.default-release/chrome/userChrome.css
+bluetuith 
+curl ip-api.com
+doas protonvpn d
+pulsemixer 
+spicetify restore backup apply
+doas timeshift-gtk
+z Projects/renewm/
+z Projects/smithay/
+paru spotify advlock
+paru spotify adblock
+paru -R spotify-adblock
+neofetch
+nvim
+z anvil/
+cargo r --winit
+cargo r -- --winit
+neofetch
+nvim
+z ..
+cargo new wmtest
+z wmtest/
+z Projects/
+git clone https://github.com/monroeclinton/mwm.git
+z mwm/
+cargo r
+..
+ls
+z mwm/
+ls
+cargo r
+nvim
+z ..
+z renewm/
+rm src/animate.rs
+mv src/main.rs src/main
+rm src/*rs
+mv src/main src/main.rs
+z src/
+touch renewm.rs
+rm renewm.rs
+touch lib.rs
+touch renewm.rs
+touch clients.rs
+touch config.rs
+doas protonvpn c --sec
+doas protonvpn c --sc
+cargo c
+z Projects/
+rm mwm/ -r
+git clone https://github.com/monroeclinton/mwm/tree/wayland
+git clone https://github.com/monroeclinton/mwm.git
+z mwm/
+git checkout wayland
+ls
+git push -u origin main
+git add .
+git commit -m "plan number 3 ..."
+git push -u origin main
+nvim
+nvim
+nvim
+hentaifetch
+clear
+paru -Syu
+z Projects/renewm/
+z ..
+mv renewm/ renewm-core/
+z renewm-core/
+z Projects/mwm/
+cargo r
+cargo r -- --winit
+virsh -c qemu:///system net-start default 
+neofetch
+virsh -c qemu:///system start win11
+looking-glass-client 
+xrandr
+xrandr
+neofetch
+hentaifetch
+moar .cache/newm/newm_log
+paru watsap
+paru whatsapp
+paru whatsapp rust
+paru whatsapp cli
+whatscli 
+/help
+whatscli 
+zsh
+nvim .config/whatscli/whatscli.config
+whatscli 
+paru -R whatscli
+mv gitdownload/ git
+z git
+ls
+git clone -b whatsmeow git@github.com:normen/whatscli.git
+cd whatscli/
+ls
+neofetch
+go build main.go
+./release.sh
+nvim main
+./main
+nvim ~/.config/whatscli/whatscli.config
+./main
+doas protonvpn c 
+./main
+doas protonvpn d
+z Projects/mwm/
+lobster
+doas protonvpn d
+curl ip-api.com
+nvim
+z Projects/mwm/
+curl ip-api.com
+nvim
+cargo r
+./preview.sh
+paru xephyr
+paru xinit
+nvim preview.sh
+./preview.sh
+z Projects/
+z smithay/
+ls
+z examples/minimal.rs
+z examples/
+nvim minimal.rs
+nvim compositor.rs
+z ..
+ls
+z smallvil/
+cargo r
+z Projects/renewm-core/
+mv src/renewm.rs src/state.rs
+git add . 
+git commit -m "plan number 3"
+git push -u origin main
+cargo r
+cargo clean
+cargo update
+cargo r
+z Projects/smithay/anvil/
+touch winit.rs
+rm winit.rs
+touch src/winit.rs
+touch src/data.rs
+git add .
+git commit -m "plan number 3.1"
+git push -u origin main
+nvim .mozilla/firefox/35oabkhp.default-release/chrome/userChrome.css
+nvim .mozilla/firefox/profiles.ini
+git add .
+git commit -m "plan number 3.2"
+git push -u origin main
+cargo r
+git add .
+git commit -m "plan number 3.2"
+git push -u origin main
+nvim .mozilla/firefox/35oabkhp.default-release/chrome/userChrome.css
+nvim
+nvim
+nvim
+nmtui
+neofetch
+z Projects/smithay/anvil/
+z Projects/renewm-core/
+z ..
+mv renewm-core/ renewm
+z renewm/
+ls
+nvim
+z Projects/renewm-core/
+z Projects/renewm
+z Projects/smithay/anvil/
+nvim
+nvim
+nvim Projects/smithay/smallvil
+z Projects/smithay/smallvil
+cargo r
+cargo r -- --c kitty
+cargo r -- --weston
+paru weston terminal
+z Projects/mwm/
+nvim
+nvim
+nmtui
+paru -Syu
+paru -R linux-headers
+paru -Syu
+neofetch
+z Projects/klownie_matrice/
+z Projects/tester/
+cargo r
+nvim
+rustc --explain E0369
+nvim
+nmtui
+neofetch
+protonvpn c
+protonvpn-cli
+paru -Syu
+paru protonvpn
+protonvpn-cli
+protonvpn-cli logout
+paru -Rns protonvpn-cli
+rm -rf ~/.config/protonvpn
+rm -rf ~/.cache/protonvpn
+paru kwallet
+paru gnome keyring
+paru protonvpn
+protonvpn-cli logout
+protonvpn-cli login
+protonvpn-cli login audrickyeu@proton.me
+protonvpn-cli config -p tcp
+paru protonvpn
+uname -a
+nmcli c s --active
+nmcli d
+ip route
+protonvpn-cli --get-logs
+paru -Syu
+paru eww
+new
+nvim
+z Projects/klownie_matrice/
+mv src/ src.old/
+mkdir src
+touch src/lib.rs
+touch src/tests.rs
+touch src/utils.rs
+mv src/utils.rs src/matiter.rs
+mv src/matiter.rs src/klown_utils
+mv src/klown_utils src/klown_utils.rs
+nmtui
+rm src/ -r
+mv src.old/ src
+nvim
+paru -Rns protonvpn-comunity-cli
+paru -Rns protonvpn-community-cli
+paru protonvpn
+protonvpn-cli ks --off
+nvim
+protonvpn-cli ks --off
+pamac
+paru -Rns protonvpn-cli
+paru -Syu
+rm -rf ~/.cache/protonvpn
+paru -S protonvpn-cli
+protonvpn-cli -v
+protonvpn-cli login audrickyeu@proton.me
+protonvpn-cli -v
+paru protonvpn
+protonvpn-cli init
+protonvpn init
+doas protonvpn init 
+protonvpn c -f
+curl ip-api.com
+doas protonvpn c -f 
+doas protonvpn c 
+new
+nmtui
+neofetch
+paru moolight
+which protonvpn
+which protonvpn-cli
+paru -Rns protonvpn-cli
+paru protonvpn
+paru -R protonvpn-cli-community
+which protonvpn
+which protonvpn-cli
+protonvpn
+paru protonvpn
+doas protonvpn c 
+doas protonvpn-cli c 
+protonvpn-cli c 
+wich protonvpn-cli
+which protonvpn
+which protonvpn-cli
+protonvpn
+protonvpn-cli
+paru bousorama
+paru bourso
+paru engie
+paru paris
+paru -Syu
+doas time
+virsh -c qemu:///system net-start default 
+virsh -c qemu:///system start win11
+looking-glass-client 
+systemctl suspend
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+curl ip-api.com
+nmtui
+curl ip-api.com
+nmtui
+newm-run.sh 
+nmtui
+z Projects/mwm/
+ls
+./preview.sh
+neofetch
+paru zephyr
+paru xephyr
+paru libway
+paru libgbm
+z Projects/mwm/
+nvim preview.sh
+pkill mpv
+pkill mplayer
+nvim
+nmyui
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+ani-cli chainsaw
+ani-cli bleach
+ani-cli jujetsu
+spt
+z Projects/mwm/
+z Projects
+ls
+z wmtest/
+nvim
+z ..
+mv mwm/ wmtest/
+cp wmtest/ mwm
+cp wmtest/ mwm/
+cp wmtest/ mwm/ -r
+cp wmtest/ mwm/ -rf
+cp wmtest/ mwm/ -h
+mkdir mwm
+cp wmtest/ mwm/ -r
+nvim wmtest/
+z wmtest/
+ls
+z ..
+rm wmtest/
+rm wmtest/ -r
+cp mwm/ wmtest
+cp mwm/ wmtest -r
+ls
+z wmtest/
+ls
+z wmtest/
+ls
+nvim
+ls
+z wmtest/
+ls
+z mwm
+ls
+z ..
+mv mwm/wmtest/mwm/ mwm
+ls
+ls mwm/
+mv mwm/mwm/ mwm
+mv mwm/mwm/ mwm -r
+mv mwm/mwm/ mwm -f
+mv mwm/mwm/ refwm
+ls
+ls refwm/
+rm mwm/ -r
+rm wmtest/ -r
+mv refwm/ mwm/
+ls
+cp mwm/ wmtest -r
+ls wmtest/
+z mwm
+z
+z Projects/wmtest/
+bluetuith 
+curl ip-api.com
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+./preview.sh
+RUST_BACKTRACE=1 cargo r
+z Projects/smithay/smallvil/
+paru weston terminal\
+paru weston terminal
+paru weston
+weston-terminal 
+cargo r
+yo
+neofetch
+cargo r -c
+cargo r -c kitty
+ls
+neofetch
+cargo r -- -c kitty
+neofetch
+ls
+z Projects/
+ls
+clear
+ls
+clear
+z Projects/
+z Projects/smithay/anvil/
+nvim
+z ..
+rm wmtest/
+rm wmtest/ -r
+cp smithay/smallvil/ wmtest
+cp smithay/smallvil/ wmtest -r
+z wmtest/
+ls
+touch renewm.nu
+nvim
+1
+open renewm.nu
+systemctl suspend
+doas openvpn OVPN/jp-free-06.protonvpn.net.udp.ovpn
+paru proton
+paru protonvpn
+protonvpn-cli 
+paru -Rns protonvpn-cli
+paru protonvpn\
+paru protonvpn
+protonvpn configure 
+doas protonvpn configure 
+paru -Rns protonvpn-community-cli
+paru -Rns protonvpn-community-cli-git
+paru protonvpn
+sudo pip3 uninstall protonvpn-cli
+sudo pipx uninstall protonvpn-cli
+pip3 uninstall protonvpn-cli
+pipx uninstall protonvpn-cli
+sudo python -m pip uninstall protonvpn-cli
+sudo python -m pipx uninstall protonvpn-cli
+python -m pipx uninstall protonvpn-cli
+paru protonvpn
+paru -R pirate-get
+paru protonvpn
+protonvpn-cli 
+protonvpn-cli
+protonvpn-cli configure
+protonvpn
+paru -Rns protonvpn-cli
+paru protonvpn
+protonvpn
+protonvpn configure
+doas protonvpn configure
+paru -Rns protonvpn-community-cli
+paru -Rns protonvpn-cli-community
+pipx uninstall protonvpn-cli
+python -m pipx uninstall protonvpn-cli
+paru protonvpn
+protonvpn configure
+protonvpn-cli 
+which protonvpn-cli
+which protonvpn
+curl ip-api.com
+paru -Rns protonvpn-cli-community
+paru -Rns protonvpn-cli
+paru -Rns protonvpn
+sudo python -m pipx uninstall protonvpn-cli
+sudo pipx uninstall protonvpn-cli
+python pipx uninstall protonvpn-cli
+pipx uninstall protonvpn-cli
+pipx uninstall protonvpn
+python -m pipx uninstall protonvpn-cli
+python -m pipx uninstall protonvpn
+sudo python -m pipx uninstall protonvpn
+sudo pipx uninstall protonvpn
+sudo find / -name "proton*"
+rm .cache/protonvpn/*
+rm .cache/protonvpn/* -r
+sudo find / -name "proton*"
+su
+protonvpn-cli 
+sudo find / -name "proton*"
+chezmoi re-add
+chezmoi add Pictures/
