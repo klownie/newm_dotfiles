@@ -4878,3 +4878,10 @@ chezmoi cd
 nvim .config/nushell/config.nu
 chezmoi readd
 chezmoi re-add
+clear
+git add .
+git commit -m "migration time"
+git push -u origin main
+nvim dot_config/nushell/env.nu
+exit
+chezmoi cd
