@@ -50,18 +50,19 @@ def on_startup():
     INIT_SERVICE = (
         "systemctl --user import-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP",
         "dbus-update-activation-environment 2>/dev/null \
-        && dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP",
-        "/usr/lib/xfce-polkit/xfce-polkit",
+        and dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP",
+        "/usr/bin/polkit-dumb-agent",
         "mako",
         "nm-applet --indicator",
-        os.path.expanduser("~/.scripts/battery-status.sh"),
+        #os.path.expanduser("~/.scripts/battery-status.sh"),
         "wl-paste --watch cliphist store",
         # "avizo-service",
         #"wlsunset -l 16.0867 -L -93.7561 -t 2500 -T 6000",
         #"mpv --no-video /home/klownie/Documents/Nintendo\ Wii\ Startup\ sound\ download\ \[jnf76C_qYho\].webm",
-        "poweralertd -s",
+        #"poweralertd -s",
         "exec ssh-agent nu",
         "xhost +",
+        "systemctl --user start sunshine",
     )
     execute_iter(INIT_SERVICE)
 
@@ -73,8 +74,8 @@ def on_reconfigure():
     # gnome_peripheral = "org.gnome.desktop.peripherals"
     # gnome_preferences = "org.gnome.desktop.wm.preferences"
     # easyeffects = "com.github.wwmm.easyeffects"
-    theme = "groot"
-    icons = "Nordic-Folder"
+    theme = "Nordic-darker"
+    icons = "Nordic-darker"
     cursor = "Adwaita"
     font = "JetBrains Mono"
     gtk2 = "~/.gtkrc-2.0"
@@ -122,29 +123,29 @@ def on_reconfigure():
 
 ## Configurations for display
 
-outputs = [
-    {
-        "name": "eDP-1",
-        "scale": 1.0,
-        "width": 1920,
-        "height": 1080,
-        "mHz": 60002,
-        "pos_x": 3840,
-        "pos_y": 0,
-    },  # 2560/1600 },
-    {
-        "name": "HDMI-A-1",
-        "scale": 1.0,
-        "pos_x": 1920,
-        "pos_y": 0,
-    },
-    {
-        "name": "DP-1",
-        "scale": 1.0,
-        "pos_x": 0,
-        "pos_y": 0,
-    }
-]
+# outputs = [
+#     {
+#         "name": "eDP-1",
+#         "scale": 1.0,
+#         "width": 1920,
+#         "height": 1080,
+#         "mHz": 60002,
+#         "pos_x": 3840,
+#         "pos_y": 0,
+#     },  # 2560/1600 },
+#     {
+#         "name": "HDMI-A-1",
+#         "scale": 1.0,
+#         "pos_x": 1920,
+#         "pos_y": 0,
+#     },
+#     {
+#         "name": "DP-1",
+#         "scale": 1.0,
+#         "pos_x": 0,
+#         "pos_y": 0,
+#     }
+# ]
 
 
 ## Configure Pywm (backend used by newm)
