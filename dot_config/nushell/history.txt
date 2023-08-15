@@ -289,3 +289,212 @@ paru -Syu
 xhost +
 nvim .config/newm/config.py
 chezmoi readd
+chezmoi re-add
+git add .
+git push
+git add .<\n>git commit -m "fixed nushell"
+git config --global user.name "klownie"
+git add .<\n>git commit -m "fixed nushell"
+<\n>  git config --global user.email "audrickyeu@proton.me"
+git commit -m "fixed nushell"
+sudo lsof -i -P -n
+paru lsof
+sudo lsof -i -P -n
+paru ufw
+paru open jdk 8
+cd git
+mkdir ~/MultiMC and cd ~/MultiMC
+rm ~/MultiMC/ -r
+mkdir MultiMC
+cd MultiMC/
+mkdir build<\n>mkdir install
+git clone --recursive https://github.com/UltimMC/Launcher.git src
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=../install ../src
+flatpak list
+flatpak install org.freedesktop.Platform.VulkanLayer.MangoHud
+nvim `.var/app/com.valvesoftware.Steam/data/applications/Rain World.desktop`
+ls
+nvim BepInEx/config/BepInEx.cfg
+nvim BepInEx/config/com.henpemaz.splitscreencoop.cfg
+ls
+nvim BepInEx/config/com.henpemaz.splitscreencoop.cfg
+rm BepInEx/config/com.henpemaz.splitscreencoop.cfg
+nvim BepInEx/config/com.henpemaz.splitscreencoop.cfg
+nvim BepInEx/config/BepInEx.cfg
+nvim BepInEx/patchers/BepInEx.MonoMod.Loader.dll
+ls BepInEx/config/
+ls BepInEx/plugins/
+cd
+paru rainworld
+cd /.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Rain World
+cd `.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Rain World/`
+ls
+nvim consoleLog.txt
+clear
+ls BepInEx/plugins/
+ls BepInEx/config/
+cd
+paru openvpn
+mkdir ovpn
+paru resolve
+paru resolve update
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+paru resolve update
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+up /usr/bin/update-systemd-resolved
+/usr/bin/update-systemd-resolved
+up /usr/bin/update-systemd-resolved --up /usr/bin/update-systemd-resolved
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn --up /usr/bin/update-systemd-resolved
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn --help /usr/bin/update-systemd-resolved
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+paru resolve update
+sudo ln -s /usr/bin/update-systemd-resolved /etc/openvpn/update-resolve-conf
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+nvim /etc/openvpn/update-resolv-conf
+ld /etc/openvpn/
+ls /etc/openvpn/
+ls /etc/openvpn/ -la
+ls /etc/openvpn/update-resolve-conf
+nvim /etc/openvpn/update-resolve-conf
+rm /etc/openvpn/update-resolve-conf
+sudo rm /etc/openvpn/update-resolve-conf 
+sudo ln -s /usr/bin/update-systemd-resolved /etc/openvpn/update-resolv-conf
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+sudo rm /etc/openvpn/update-resolv-conf
+paru openvpn
+paru -Syu
+paru openvpn-git
+paru -R openvpn
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn --help
+sudo openvpn --help ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+sudo openvpn --up /usr/bin/update-systemd-resolved --down /usr/bin/update-systemd-resolved ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+sudo openvpn --up /usr/bin/update-systemd-resolved --down /usr/bin/update-systemd-resolved
+sudo openvpn --up /usr/bin/update-systemd-resolved --down /usr/bin/update-systemd-resolved --dev ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+sudo openvpn --up /usr/bin/update-systemd-resolved --down /usr/bin/update-systemd-resolved --config ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+nvim ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+paru dbus
+paru busctl
+paru bus ctl
+sudo openvpn ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+nvim ovpn/fr-13-tor.protonvpn.net.udp.ovpn
+nvim ovpn/node-fr-13.protonvpn.net.udp.ovpn
+ping gnu.org
+sudo openvpn ovpn/node-fr-13.protonvpn.net.udp.ovpn
+nvim /usr/bin/update-systemd-resolved
+sudo systemctl status systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+sudo systemctl start systemd-resolved.service
+sudo systemctl status systemd-resolved.service
+ping gnu.org
+paru hyperland
+paru -Syu
+fabricd start
+mkdir photoshop
+./Downloads/photoshop2021install.sh /home/klownie/photoshop/
+chmod +x Downloads/photoshop2021install.sh
+./Downloads/photoshop2021install.sh /home/klownie/photoshop/
+paru wine
+paru winetrick
+bash
+bash ./Downloads/photoshop2021install.sh /home/klownie/photoshop/
+winetricks 
+cd photoshop/Adobe-Photoshop/
+winetricks 
+flatpak override --user --filesystem="/home/klownie/photoshop/Adobe-Photoshop/" com.usebottles.bottles
+flatpak install flathub com.github.tchx84.Flatseal
+ls .wine/
+ls .var/app/com.usebottles.bottles/data/bottles/bottles/photoshop/bottle.yml
+nvim .var/app/com.usebottles.bottles/data/bottles/bottles/photoshop/bottle.yml
+cp `photoshop/Adobe-Photoshop/drive_c/Program Files/Adobe/` `.var/app/com.usebottles.bottles/data/bottles/bottles/photoshop/drive_c/Program Files/`
+cp `photoshop/Adobe-Photoshop/drive_c/Program Files/Adobe/` `.var/app/com.usebottles.bottles/data/bottles/bottles/photoshop/drive_c/Program Files/` -r
+rm `.var/app/com.usebottles.bottles/data/bottles/bottles/photoshop/drive_c/Program Files/Adobe/` -r
+paru amdgpy top
+paru amdgpu top
+newm-run.sh 
+paru amdgpu top
+btm
+sudo timeshift-gtk
+flatpak install com.valvesoftware.Steam.CompatibilityTool.Boxtron 
+flatpak list
+flatpak install org.freedesktop.Platform.VulkanLayer.vkBasalt
+flatpak install com.valvesoftware.Steam.Utility.gamescope
+z Project/pierre-test/
+cd Project/pierre-test/
+cargo r
+nvim
+cd
+nvim ~/.var/app/com.valvesoftware.Steam/.config/MangoHud/MangoHud.conf
+mkdir ~/.var/app/com.valvesoftware.Steam/.config/MangoHud.conf
+rm ~/.var/app/com.valvesoftware.Steam/.config/MangoHud.conf
+mkdir ~/.var/app/com.valvesoftware.Steam/.config/MangoHud
+nvim ~/.var/app/com.valvesoftware.Steam/.config/MangoHud/MangoHud.conf
+paru vulkan tool
+flatpak search vulkan
+flatpak search goverlay
+flatpak search goverl
+paru goverlay
+paru breeze
+overlay 
+goverlay --style fusion
+goverlay --style breeze
+goverlay --help
+goverlay -h
+goverlay 
+flatpak list
+goverlay
+goverlay flatpak run org.freedesktop.Platform.VulkanLayer.MangoHud
+goverlay ~/.var/app/com.valvesoftware.Steam/.config/MangoHud/MangoHud.conf
+goverlay use ~/.var/app/com.valvesoftware.Steam/.config/MangoHud/MangoHud.conf
+goverlay run ~/.var/app/com.valvesoftware.Steam/.config/MangoHud/MangoHud.conf
+goverlay
+cp /home/klownie/.config/MangoHud/MangoHud.conf ~/.var/app/com.valvesoftware.Steam/.config/MangoHud/
+ls .var/app/com.valvesoftware.Steam/.config/MangoHud/MangoHud.conf
+nvim .var/app/com.valvesoftware.Steam/.config/MangoHud/MangoHud.conf
+ping gnu.org
+paru vkbasalt
+paru qemu base
+paru virtual manager
+paru virt viewwer
+paru virt viewer
+paru quickemu
+1
+paru quickemu
+mkdir vm
+git config --global --add safe.directory /opt/flutter
+paru quickemu
+cd vm/
+quickemu --vm archcraft-latest.conf
+paru sdl
+ls archcraft-latest
+rm -r
+rm -r archcraft-latest.conf
+rm -r archcraft-latest/
+quickget ubuntu-mate latest
+quickget archcraft latest
+quickemu --vm archcraft-latest.conf
+sudo openvpn ovpn/node-fr-13.protonvpn.net.udp.ovpn
+ls
+rm * -r
+ls
+quickemu --vm archcraft-latest.conf
+quickget archcraft latest
+quickemu --vm archcraft-latest.conf
+touch archcraft-latest/archcraft-latest.pid
+quickemu --vm archcraft-latest.conf
+ls archcraft-latest/archcraft-latest.pid
+touch archcraft-latest/archcraft-latest.pid
+ls archcraft-latest/archcraft-latest.pid
+quickemu --vm archcraft-latest.conf
+ls archcraft-latest/archcraft-latest.pid
+quickemu --vm archcraft-latest.conf
+paru sdl
+sdl
+quickemu --vm archcraft-latest.conf
+xhost +
+paru qemu-audio
+paru virt viewer
+paru qemu-ui-sdl
+quickemu --vm archcraft-latest.conf
